@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name = "Article_1">
+		\tLa République Démocratique du Congo est, dans ses frontières du 30 juin 1960, un Etat de droit, indépendant, souverain, uni et indivisible, social, démocratique et laïc.
+		\nSon emblème est le drapeau bleu ciel, orné d\'une étoile jaune dans le coin supérieur gauche et traversé en biais d\'une bande rouge finement encadrée de jaune. 
+		\nSa devise est \" Justice - Paix - Travail \". 
+		\nSes armoiries se composent d\'une tête de léopard encadrée à gauche et, à droite, d\'une pointe d\'ivoire et d\'une lance, le tout reposant sur une pierre. 
+		\nSon hymne est le \" Debout Congolais !\"
+		\nSa monnaie est \" le Franc congolais \". 
+		\nSa langue officielle est le français.
+		\nSes langues nationales sont le kikongo, le lingala, le swahili et le tshiluba. 
+		\nL\'Etat en assure la promotion sans discrimination. 
+		\nLes autres langues du pays font partie du patrimoine culturel congolais dont l\'Etat assure la protection.
+	</string>
+	<string name = "Article_2">
+		\tLa République Démocratique du Congo est composée de la ville de Kinshasa et de 25 provinces dotées de la personnalité juridique. 
+		\nCes provinces sont:
+		\nBas-Uele,
+		\nEquateur, 
+		\nHaut-Lomami,
+		\nHaut-Katanga,
+		\nHaut-Uele, 
+		\nIturi,
+		\nKasai,
+		\nKasai Oriental, 
+		\nKongo central,
+		\nKwango,
+		\nKwilu,
+		\nLomami, 
+		\nLualaba, 
+		\nKasaï Central, 
+		\nMai-Ndombe, 
+		\nManiema, 
+		\nMongala, 
+		\nNord-Kivu, 
+		\nNord-Ubangi, 
+		\nSankuru,
+		\nSud-Kivu,
+		\nSud-Ubangi, 
+		\nTanganyika,
+		\nTshopo,
+		\nTshuapa. 
+		\nKinshasa est la capitale du pays et le siège des institutions nationales. Elle a le statut de province.
+		\nLa capitale ne peut être transférée dans un autre lieu du pays que par voie de référendum. 
+		\nLa répartition des compétences entre l\'Etat et les provinces s\'effectue conformément aux dispositions du Titre III de la présente Constitution.
+		\nLes limites des provinces et celles de la ville de Kinshasa sont fixées par une loi organique.
+	</string>
+	<string name = "Article_3">
+		\tLes provinces et les entités territoriales décentralisées de la République Démocratique du Congo sont dotées de la personnalité juridique et sont gérées par les organes locaux. 
+		\nCes entités territoriales décentralisées sont la ville, la commune, le secteur et la chefferie. 
+		\nElles jouissent de la libre administration et de l\'autonomie de gestion de leurs ressources économiques, humaines, financières et techniques.
+		\nLa composition, l\'organisation, le fonctionnement de ces entités territoriales décentralisées ainsi que leurs rapports avec l\'Etat et les provinces sont fixés par une loi organique.
+	</string>
+	<string name = "Article_4">
+		\tDe nouvelles provinces et entités territoriales peuvent être créées par démembrement ou par regroupement dans les conditions fixées par la Constitution et par la loi.
+	</string>
+	<string name = "Article_5">
+		\tLa souveraineté nationale appartient au peuple.
+		\nTout pouvoir émane du peuple qui l\'exerce directement par voie de référendum ou d\'élections et indirectement par ses représentants.
+		\nAucune fraction du peuple ni aucun individu ne peut s\'en attribuer l\'exercice.
+		\nLa loi fixe les conditions d\'organisation des élections et du référendum. 
+		\nLe suffrage est universel, égal et secret. 
+		\nIl est direct ou indirect. 
+		\nSans préjudice des dispositions des articles 72, 102 et 106 de la présente Constitution, sont électeurs et éligibles, dans les conditions déterminées par la loi, tous les Congolais de deux sexes, âgés de dix-huit ans révolus et jouissant de leurs droits civils et politiques.
+	</string>
+	<string name = "Article_6">
+		\tLe pluralisme politique est reconnu en R\u00E9publique D\u00E9mocratique du Congo. 
+		\nTout Congolais jouissant de ses droits civils et politiques a le droit de cr\u00E9er un parti politique ou de s\'affilier \u00E0 un parti de son choix. 
+		\nLes partis politiques concourent \u00E0 l\'expression du suffrage, au renforcement de la conscience nationale et \u00E0 l\'\u00E9ducation civique.
+		\nIls se forment et exercent librement leurs activit\u00E9s dans le respect de la loi, de l\'ordre public et des bonnes moeurs. Les partis politiques sont tenus au respect des principes de d\u00E9mocratie pluraliste, d\'unit\u00E9 et de souverainet\u00E9 nationales. Les partis politiques peuvent recevoir de l\'Etat des fonds publics destin\u00E9s \u00E0 financer leurs campagnes \u00E9lectorales ou leurs activit\u00E9s, dans les conditions d\u00E9finies par la loi.
+	</string>
+	<string name = "Article_7">
+		\tNul ne peut instituer, sous quelque forme que ce soit, de parti unique sur tout ou partie du territoire national. L\'institution d\'un parti unique constitue une infraction imprescriptible de haute trahison punie par la loi.
+	</string>
+	<string name="Article_8">
+		\tL\'opposition politique est reconnue en R\u00E9publique D\u00E9mocratique du Congo. Les droits li\u00E9s \u00E0 son existence, \u00E0 ses activit\u00E9s et \u00E0 sa lutte pour la conqu\u00EAte d\u00E9mocratique du pouvoir sont sacr\u00E9s.
+		\nIls ne peuvent subir de limites que celles impos\u00E9es \u00E0 tous les partis et activit\u00E9s politiques par la pr\u00E9sente Constitution et la loi. 
+		\nUne loi organique d\u00E9termine le statut de l\'opposition politique.
+	</string>
+	<string name="Article_9">
+		\tL\'Etat exerce une souverainet\u00E9 permanente notamment sur le sol, le sous-sol, les eaux et les for\u00EAts, sur les espaces a\u00E9rien, fluvial, lacustre et maritime congolais ainsi que sur la mer territoriale congolaise et sur le plateau continental. Les modalit\u00E9s de gestion et de concession du domaine de l\'Etat vis\u00E9 \u00E0 l\'alin\u00E9a pr\u00E9c\u00E9dent sont d\u00E9termin\u00E9es par la loi.
+	</string>
+	<string name="Article_10">
+		\tLa nationalit\u00E9 congolaise est une et exclusive. Elle ne peut \u00EAtre d\u00E9tenue concurremment avec \"aucune autre\". La nationalit\u00E9 congolaise est soit d\'origine, soit d\'acquisition individuelle. Est Congolais d\'origine, toute personne appartenant aux groupes ethniques dont les personnes et le territoire constituaient ce qui est devenu le Congo (pr\u00E9sentement la R\u00E9publique D\u00E9mocratique du Congo) \u00E0 l\'ind\u00E9pendance. Une loi organique d\u00E9termine les conditions de reconnaissance, d\'acquisition, de perte et de recouvrement de la nationalit\u00E9 congolaise.
+	</string>
+	<string name="Article_11">
+		Tous les \u00EAtres humains naissent libres et \u00E9gaux en dignit\u00E9 et en droits. Toutefois, la jouissance des droits politiques est reconnue aux seuls Congolais, sauf exceptions \u00E9tablies par la loi.
+	</string>
+	<string name="Article_12">
+		Tous les Congolais sont \u00E9gaux devant la loi et ont droit \u00E0 une \u00E9gale protection des lois.
+	</string>
+	<string name="Article_13">
+		Aucun Congolais ne peut, en mati\u00E8re d\'\u00E9ducation et d\'acc\u00E8s aux fonctions publiques ni en aucune autre mati\u00E8re, faire l\'objet d\'une mesure discriminatoire, qu\'elle r\u00E9sulte de la loi ou d\'un acte de l\'ex\u00E9cutif, en raison de sa religion, de son origine familiale, de sa condition sociale, de sa r\u00E9sidence, de ses opinions ou de ses convictions politiques, de son appartenance \u00E0 une race, \u00E0 une ethnie, \u00E0 une tribu, \u00E0 une minorit\u00E9 culturelle ou linguistique.
+	</string>
+	<string name="Article_14">
+		Les pouvoirs publics veillent \u00E0 l\'\u00E9limination de toute forme de discrimination \u00E0 l\'\u00E9gard de la femme et assurent la protection et la promotion de ses droits. Ils prennent, dans tous les domaines, notamment dans les domaines civil, politique, \u00E9conomique, social et culturel, toutes les mesures appropri\u00E9es pour assurer le total \u00E9panouissement et la pleine participation de la femme au d\u00E9veloppement de la nation. Ils prennent des mesures pour lutter contre toute forme de violences faites \u00E0 la femme dans la vie publique et dans la vie priv\u00E9e. La femme a droit \u00E0 une repr\u00E9sentation \u00E9quitable au sein des institutions nationales, provinciales et locales. L\'Etat garantit la mise en oeuvre de la parit\u00E9 homme-femme dans lesdites institutions. La loi fixe les modalit\u00E9s d\'application de ces droits.
+	</string>
+	<string name="Article_15">
+		Les pouvoirs publics veillent \u00E0 l\'\u00E9limination des violences sexuelles. Sans pr\u00E9judice des trait\u00E9s et accords internationaux, toute violence sexuelle faite sur tout personne, dans l\'intention de d\u00E9stabiliser, de disloquer une famille et de faire dispara\u00EEtre tout un peuple est \u00E9rig\u00E9e en crime contre l\'humanit\u00E9 puni par la loi.
+	</string>
+	<string name="Article_16">
+		La personne humaine est sacr\u00E9e. L\'Etat a l\'obligation de la respecter et de la prot\u00E9ger. Toute personne a droit \u00E0 la vie, \u00E0 l\'int\u00E9grit\u00E9 physique ainsi qu\'au libre d\u00E9veloppement de sa personnalit\u00E9 dans le respect de la loi, de l\'ordre public, du droit d\'autrui et des bonnes moeurs. Nul ne peut \u00EAtre tenu en esclavage ni dans une condition analogue. Nul ne peut \u00EAtre soumis \u00E0 un traitement cruel, inhumain ou d\u00E9gradant. Nul ne peut \u00EAtre astreint \u00E0 un travail forc\u00E9 ou obligatoire.
+	</string>
+	<string name="Article_17">
+		La libert\u00E9 individuelle est garantie. Elle est la r\u00E8gle, la d\u00E9tention l\'exception. Nul ne peut \u00EAtre poursuivi, arr\u00EAt\u00E9, d\u00E9tenu ou condamn\u00E9 qu\'en vertu de la loi et dans les formes qu\'elle prescrit. Nul ne peut \u00EAtre poursuivi pour une action ou une omission qui ne constitue pas une infraction au moment o\u00F9 elle est commise et au moment des poursuites. Nul ne peut \u00EAtre condamn\u00E9 pour une action ou une omission qui ne constitue pas une infraction \u00E0 la fois au moment o\u00F9 elle est commise et au moment de la condamnation. Il ne peut \u00EAtre inflig\u00E9 de peine plus forte que celle applicable au moment o\u00F9 l\'infraction est commise. La peine cesse d\'\u00EAtre ex\u00E9cut\u00E9e lorsqu\'en vertu d\'une loi post\u00E9rieure au jugement: 
+		1. elle est supprim\u00E9e; 
+		2. le fait pour lequel elle \u00E9tait prononc\u00E9e, n\'a plus le caract\u00E8re infractionnel.
+		En cas de r\u00E9duction de la peine en vertu d\'une loi post\u00E9rieure au jugement, la peine est ex\u00E9cut\u00E9e conform\u00E9ment \u00E0 la nouvelle loi. La responsabilit\u00E9 p\u00E9nale est individuelle. Nul ne peut \u00EAtre poursuivi, arr\u00EAt\u00E9, d\u00E9tenu ou condamn\u00E9 pour fait d\'autrui. 	Toute personne accus\u00E9e d\'une infraction est pr\u00E9sum\u00E9e innocente jusqu\'\u00E0 ce que sa culpabilit\u00E9 ait \u00E9t\u00E9 \u00E9tablie par un jugement d\u00E9finitif.
+	</string>
+	<string name="Article_18">
+		Toute personne arr\u00EAt\u00E9e doit \u00EAtre imm\u00E9diatement inform\u00E9e des motifs de son arrestation et de toute accusation port\u00E9e contre elle et ce, dans la langue qu\'elle comprend. Elle doit \u00EAtre imm\u00E9diatement inform\u00E9e de ses droits. La personne gard\u00E9e \u00E0 vue a le droit d\'entrer imm\u00E9diatement en contact avec sa famille ou avec son conseil. La garde \u00E0 vue ne peut exc\u00E9der quarante huit heures. A l\'expiration de ce d\u00E9lai, la personne gard\u00E9e \u00E0 vue doit \u00EAtre rel\u00E2ch\u00E9e ou mise \u00E0 la disposition de l\'autorit\u00E9 judiciaire comp\u00E9tente. Tout d\u00E9tenu doit b\u00E9n\u00E9ficier d\'un traitement qui pr\u00E9serve sa vie, sa sant\u00E9 physique et mentale ainsi que sa dignit\u00E9.
+	</string>
+	<string name="Article_19">
+		Nul ne peut \u00EAtre ni soustrait ni distrait contre son gr\u00E9 du juge que la loi lui assigne. Toute personne a droit \u00E0 ce que sa cause soit entendue dans un d\u00E9lai raisonnable par le juge comp\u00E9tent. Le droit de la d\u00E9fense est organis\u00E9 et garanti. Toute personne a le droit de se d\u00E9fendre elle-m\u00EAme ou de se faire assister d\'un d\u00E9fenseur de son choix et ce, \u00E0 tous les niveaux de la proc\u00E9dure p\u00E9nale, y compris l\'enqu\u00EAte polici\u00E8re et l\'instruction pr\u00E9juridictionnelle. Elle peut se faire assister \u00E9galement devant les services de s\u00E9curit\u00E9.
+	</string>
+	<string name="Article_20">
+		Les audiences des cours et tribunaux sont publiques, \u00E0 moins que cette publicit\u00E9 ne soit jug\u00E9e dangereuse pour l\'ordre public ou les bonnes moeurs. Dans ce cas, le tribunal ordonne le huis clos.
+	</string>
+	<string name="Article_21">
+		Tout jugement est \u00E9crit et motiv\u00E9. Il est prononc\u00E9 en audience publique. Le droit de former un recours contre un jugement est garanti \u00E0 tous. \" est exerc\u00E9 dans les conditions fix\u00E9es par la loi.
+	</string>
+	<string name="Article_22">
+		Toute personne a droit \u00E0 la libert\u00E9 de pens\u00E9e, de conscience et de religion. Toute personne a le droit de manifester sa religion ou ses convictions, seule ou en groupe, tant en public qu\'en priv\u00E9, par le culte, l\'enseignement, les pratiques, l\'accomplissement des rites et l\'\u00E9tat de vie religieuse, sous r\u00E9serve du respect de la loi, de l\'ordre public, des bonnes moeurs et des droits d\'autrui. La loi fixe les modalit\u00E9s d\'exercice de ces libert\u00E9s.
+	</string>
+	<string name="Article_23">
+		Toute personne a droit \u00E0 la libert\u00E9 d\'expression. Ce droit implique la libert\u00E9 d\'exprimer ses opinions ou ses convictions, notamment par la parole, l\'\u00E9crit et l\'image, sous r\u00E9serve du respect de la loi, de l\'ordre public et des bonnes moeurs.
+	</string>
+	<string name="Article_24">
+		Toute personne a droit \u00E0 l\'information. La libert\u00E9 de presse, la libert\u00E9 d\'information et d\'\u00E9mission par la radio et la t\u00E9l\u00E9vision, la presse \u00E9crite ou tout autre moyen de communication sont garanties sous r\u00E9serve du respect de l\'ordre public, des bonnes moeurs et des droits d\'autrui. La loi fixe les modalit\u00E9s d\'exercice de ces libert\u00E9s. Les m\u00E9dias audiovisuels et \u00E9crits d\'Etat sont des services publics dont l\'acc\u00E8s est garanti de mani\u00E8re \u00E9quitable \u00E0 tous les courants politiques et sociaux. Le statut des m\u00E9dias d\'Etat est \u00E9tabli par la loi qui garantit l\'objectivit\u00E9, l\'impartialit\u00E9 et le pluralisme d\'opinions dans le traitement et la diffusion de l\'information.
+	</string>
+	<string name="Article_25">
+		La libert\u00E9 des r\u00E9unions pacifiques et sans armes est garantie sous r\u00E9serve du respect de la loi, de l\'ordre public et des bonnes moeurs.
+	</string>
+	<string name="Article_26">
+		La libert\u00E9 de manifestation est garantie. Toute manifestation sur les voies publiques ou en plein air, impose aux organisateurs d\'informer par \u00E9crit l\'autorit\u00E9 administrative comp\u00E9tente. Nul ne peut \u00EAtre contraint \u00E0 prendre part \u00E0 une manifestation. La loi en fixe les mesures d\'application.
+	</string>
+	<string name="Article_27">
+		Tout Congolais a le droit d\'adresser individuellement ou collectivement une p\u00E9tition \u00E0 l\'autorit\u00E9 publique qui y r\u00E9pond dans les trois mois. Nul ne peut faire l\'objet d\'incrimination, sous quelque forme que ce soit, pour avoir pris pareille initiative.
+	</string>
+	<string name="Article_28">
+		Nul n\'est tenu d\'ex\u00E9cuter un ordre manifestement ill\u00E9gal. Tout individu, tout agent de l\'Etat est d\u00E9li\u00E9 du devoir d\'ob\u00E9issance, lorsque l\'ordre re\u00E7u constitue une atteinte manifeste au respect des droits de l\'homme et des libert\u00E9s publiques et des bonnes moeurs. La preuve de l\'ill\u00E9galit\u00E9 manifeste de l\'ordre incombe \u00E0 la personne qui refuse de l\'ex\u00E9cuter.
+	</string>
+	<string name="Article_29">
+		Le domicile est inviolable. Il ne peut y \u00EAtre effectu\u00E9 de visite ou de perquisition que dans les formes et les conditions pr\u00E9vues par la loi.
+	</string>
+	<string name="Article_30">
+		Toute personne qui se trouve sur le territoire national a le droit d\'y circuler librement, d\'y fixer sa r\u00E9sidence, de le quitter et d\'y revenir, dans les conditions fix\u00E9es par la loi. Aucun Congolais ne peut \u00EAtre ni expuls\u00E9 du territoire de la R\u00E9publique, ni \u00EAtre contraint \u00E0 l\'exil, ni \u00EAtre forc\u00E9 \u00E0 habiter hors de sa r\u00E9sidence habituelle.
+	</string>
+	<string name="Article_31">
+		Toute personne a droit au respect de sa vie priv\u00E9e et au secret de la correspondance, de la t\u00E9l\u00E9communication ou de toute autre forme de communication. Il ne peut \u00EAtre port\u00E9 atteinte \u00E0 ce droit que dans les cas pr\u00E9vus par la loi.
+	</string>
+	<string name="Article_32">
+		Tout \u00E9tranger qui se trouve l\u00E9galement sur le territoire national jouit de la protection accord\u00E9e aux personnes et \u00E0 leurs biens dans les conditions d\u00E9termin\u00E9es par les trait\u00E9s et les lois. Il est tenu de se conformer aux lois et r\u00E8glements de la R\u00E9publique.
+	</string>
+	<string name="Article_33">
+		Le droit d\'asile est reconnu. La R\u00E9publique D\u00E9mocratique du Congo accorde, sous r\u00E9serve de la s\u00E9curit\u00E9 nationale, l\'asile sur son territoire aux ressortissants \u00E9trangers, poursuivis ou pers\u00E9cut\u00E9s en raison, notamment, de leur opinion, leur croyance, leur appartenance raciale, tribale, ethnique, linguistique ou de leur action en faveur de la d\u00E9mocratie et de la d\u00E9fense des Droits de l\'Homme et des Peuples, conform\u00E9ment aux lois et r\u00E8glements en vigueur. Il est interdit \u00E0 toute personne jouissant r\u00E9guli\u00E8rement du droit d\'asile d\'entreprendre toute activit\u00E9 subversive contre son pays d\'origine ou contre tout autre pays, \u00E0 partir du territoire de la R\u00E9publique D\u00E9mocratique du Congo. Les r\u00E9fugi\u00E9s ne peuvent ni \u00EAtre remis \u00E0 l\'autorit\u00E9 de l\'Etat dans lequel ils sont pers\u00E9cut\u00E9s ni \u00EAtre refoul\u00E9s sur le territoire de celui-ci. En aucun cas, nul ne peut \u00EAtre achemin\u00E9 vers le territoire d\'un Etat dans lequel il risque la torture, des peines ou des traitements cruels, d\u00E9gradants et inhumains. La loi fixe les modalit\u00E9s d\'exercice de ce droit.
+	</string>
+
+	<string name="Article_34">
+		La propri\u00E9t\u00E9 priv\u00E9e est sacr\u00E9e. L\'Etat garantit le droit \u00E0 la propri\u00E9t\u00E9 individuelle ou collective, acquis conform\u00E9ment \u00E0 la loi ou \u00E0 la coutume. Il encourage et veille \u00E0 la s\u00E9curit\u00E9 des investissements priv\u00E9s, nationaux et \u00E9trangers. Nul ne peut \u00EAtre priv\u00E9 de sa propri\u00E9t\u00E9 que pour cause d\'utilit\u00E9 publique et moyennant une juste et pr\u00E9alable indemnit\u00E9 octroy\u00E9e dans les conditions fix\u00E9es par la loi. Nul ne peut \u00EAtre saisi en ses biens qu\'en vertu d\'une d\u00E9cision prise par une autorit\u00E9 judiciaire comp\u00E9tente.
+	</string>
+	<string name="Article_35">
+		L\'Etat garantit le droit \u00E0 l\'initiative priv\u00E9e tant aux nationaux qu\'aux \u00E9trangers. Il encourage l\'exercice du petit commerce, de l\'art et de l\'artisanat par les Congolais et veille \u00E0 la protection et \u00E0 la promotion de l\'expertise et des comp\u00E9tences nationales. La loi fixe les modalit\u00E9s d\'exercice de ce droit.
+	</string>
+	<string name="Article_36">
+		Le travail est un droit et un devoir sacr\u00E9s pour chaque Congolais. L\'Etat garantit le droit au travail, la protection contre le ch\u00F4mage et une r\u00E9mun\u00E9ration \u00E9quitable et satisfaisante assurant au travailleur ainsi qu\'\u00E0 sa famille une existence conforme \u00E0 la dignit\u00E9 humaine, compl\u00E9t\u00E9e par tous les autres moyens de protection sociale, notamment, la pension de retraite et la rente viag\u00E8re. Nul ne peut \u00EAtre l\u00E9s\u00E9 dans son travail en raison de ses origines, de son sexe, de ses opinions, de ses croyances ou de ses conditions socio-\u00E9conomiques. Tout Congolais a le droit et le devoir de contribuer par son travail \u00E0 la construction et \u00E0 la prosp\u00E9rit\u00E9 nationales. La loi \u00E9tablit le statut des travailleurs et r\u00E9glemente les particularit\u00E9s propres au r\u00E9gime juridique des ordres professionnels et l\'exercice des professions exigeant une qualification scolaire ou acad\u00E9mique. Les structures internes et le fonctionnement des ordres professionnels doivent \u00EAtre d\u00E9mocratiques.
+	</string>
+	<string name="Article_37">
+		L\'Etat garantit la libert\u00E9 d\'association. Les pouvoirs publics collaborent avec les associations qui contribuent au d\u00E9veloppement social, \u00E9conomique, intellectuel, moral et spirituel des populations et \u00E0 l\'\u00E9ducation des citoyennes et des citoyens. Cette collaboration peut rev\u00EAtir la forme d\'une subvention. La loi fixe les modalit\u00E9s d\'exercice de cette libert\u00E9;
+	</string>
+	<string name="Article_38">
+		La libert\u00E9 syndicale est reconnue et garantie. Tous les Congolais ont le droit de fonder des syndicats ou de s\'y affilier librement, dans les conditions fix\u00E9es par la loi.
+	</string>
+	<string name="Article_39">
+		Le droit de gr\u00E8ve est reconnu et garanti. Il s\'exerce dans les conditions fix\u00E9es par la Loi qui peut en interdire ou en limiter l\'exercice dans les domaines de la d\u00E9fense nationale et de la s\u00E9curit\u00E9 ou pour toute activit\u00E9 ou tout service public d\'int\u00E9r\u00EAt vital pour la nation.
+	</string>
+	<string name="Article_40">
+		Tout individu a le droit de se marier avec la personne de son choix, de sexe oppos\u00E9, et de fonder une famille. La famille, cellule de base de la communaut\u00E9 humaine, est organis\u00E9e de mani\u00E8re \u00E0 assurer son unit\u00E9, sa stabilit\u00E9 et sa protection. Elle est plac\u00E9e sous la protection des pouvoirs publics. Les soins et l\'\u00E9ducation \u00E0 donner aux enfants constituent, pour les parents, un droit naturel et un devoir qu\'ils exercent sous la surveillance et avec l\'aide des pouvoirs publics. Les enfants ont le devoir d\'assister leurs parents. La loi fixe les r\u00E8gles sur le mariage et l\'organisation de la famille.
+	</string>
+	<string name="Article_41">
+		L\'enfant mineur est toute personne, sans distinction de sexe, qui n\'a pas encore atteint 18 ans r\u00E9volus. Tout enfant mineur a le droit de conna\u00EEtre les noms de son p\u00E8re et de sa m\u00E8re. Il a \u00E9galement le droit de jouir de la protection de sa famille, de la soci\u00E9t\u00E9 et des pouvoirs publics. L\'abandon et la maltraitance des enfants, notamment la p\u00E9dophilie, les abus sexuels ainsi que l\'accusation de sorcellerie sont prohib\u00E9s et punis par la loi. Les parents ont le devoir de prendre soin de leurs enfants et d\'assurer leur protection contre tout acte de violence tant \u00E0 l\'int\u00E9rieur qu\'\u00E0 l\'ext\u00E9rieur du foyer. Les pouvoirs publics ont l\'obligation d\'assurer une protection aux enfants en situation difficile et de d\u00E9f\u00E9rer, devant la justice, les auteurs et les complices des actes de violence \u00E0 l\'\u00E9gard des enfants. Toutes les autres formes d\'exploitation d\'enfants mineurs sont punies par la loi.
+	</string>
+	<string name="Article_42">
+		Les pouvoirs publics ont l\'obligation de prot\u00E9ger la jeunesse contre toute atteinte \u00E0 sa sant\u00E9, \u00E0 son \u00E9ducation et \u00E0 son d\u00E9veloppement int\u00E9gral.
+	</string>
+	<string name="Article_43">
+		Toute personne a droit \u00E0 l\'\u00E9ducation scolaire. Il y est pourvu par l\'enseignement national. L\'enseignement national comprend les \u00E9tablissements publics et les \u00E9tablissements priv\u00E9s agr\u00E9\u00E9s. La loi fixe les conditions de cr\u00E9ation et de fonctionnement de ces \u00E9tablissements. Les parents ont le droit de choisir le mode d\'\u00E9ducation \u00E0 donner \u00E0 leurs enfants. L\'enseignement primaire est obligatoire et gratuit dans les \u00E9tablissements publics.
+	</string>
+	<string name="Article_44">
+		L\'\u00E9radication de l\'analphab\u00E9tisme est un devoir national pour la r\u00E9alisation duquel le Gouvernement doit \u00E9laborer un programme sp\u00E9cifique.
+	</string>
+	<string name="Article_45">
+		L\'enseignement est libre. Il est toutefois soumis \u00E0 la surveillance des pouvoirs publics, dans les conditions fix\u00E9es par la loi. Toute personne a acc\u00E8s aux \u00E9tablissements d\'enseignement national, sans discrimination de lieu d\'origine, de race, de religion, de sexe, d\'opinions politiques ou philosophiques, de son \u00E9tat physique, mental ou sensoriel, selon ses capacit\u00E9s. Les \u00E9tablissements d\'enseignement national peuvent assurer, en collaboration avec les autorit\u00E9s religieuses, \u00E0 leurs \u00E9l\u00E8ves mineurs dont les parents le demandent, une \u00E9ducation conforme \u00E0 leurs convictions religieuses. Les pouvoirs publics ont le devoir de promouvoir et d\'assurer, par l\'enseignement, l\'\u00E9ducation et la diffusion, le respect des droits de l\'homme, des libert\u00E9s fondamentales et des devoirs du citoyen \u00E9nonc\u00E9s dans la pr\u00E9sente Constitution. Les pouvoirs publics ont le devoir d\'assurer la diffusion et l\'enseignement de la Constitution, de la D\u00E9claration universelle des droits de l\'homme, de la Charte africaine des droits de l\'homme et des peuples, ainsi que de toutes les conventions r\u00E9gionales et internationales relatives aux droits de l\'homme et au droit international humanitaire d\u00FBment ratifi\u00E9es. L\'Etat a l\'obligation d\'int\u00E9grer les droits de la personne humaine dans tous les programmes de formation des forces arm\u00E9es, de la police et des services de s\u00E9curit\u00E9. La loi d\u00E9termine les conditions d\'application du pr\u00E9sent article.
+	</string>
+	<string name="Article_46">
+		Le droit \u00E0 la culture, la libert\u00E9 de cr\u00E9ation intellectuelle et artistique, et celle de la recherche scientifique et technologique sont garantis sous r\u00E9serve du respect de la loi, de l\'ordre public et des bonnes m\u0153urs. Les droits d\'auteur et de propri\u00E9t\u00E9 intellectuelle sont garantis et prot\u00E9g\u00E9s par la loi. L\'Etat tient compte, dans l\'accomplissement de ses t\u00E2ches, de la diversit\u00E9 culturelle du pays. Il prot\u00E8ge le patrimoine culturel national et en assure la promotion.
+	</string>
+	<string name="Article_47">
+		Le droit \u00E0 la sant\u00E9 et \u00E0 la s\u00E9curit\u00E9 alimentaire est garanti. La loi fixe les principes fondamentaux et les r\u00E8gles d\'organisation de la sant\u00E9 publique et de la s\u00E9curit\u00E9 alimentaire.
+	</string>
+	<string name="Article_48">
+		Le droit \u00E0 un logement d\u00E9cent, le droit d\'acc\u00E8s \u00E0 l\'eau potable et \u00E0 l\'\u00E9nergie \u00E9lectrique sont garantis. La loi fixe les modalit\u00E9s d\'exercice de ces droits.
+	</string>
+	<string name="Article_49">
+		La personne du troisi\u00E8me \u00E2ge et la personne avec handicap ont droit \u00E0 des mesures sp\u00E9cifiques de protection en rapport avec leurs besoins physiques, intellectuels et moraux. L\'Etat a le devoir de promouvoir la pr\u00E9sence de la personne avec handicap au sein des institutions nationales, provinciales et locales. Une loi organique fixe les modalit\u00E9s d\'application de ce droit.
+	</string>
+	<string name="Article_50">
+		L\'Etat prot\u00E8ge les droits et les int\u00E9r\u00EAts l\u00E9gitimes des Congolais qui se trouvent tant \u00E0 l\'int\u00E9rieur qu\'\u00E0 l\'ext\u00E9rieur du pays. Sous r\u00E9serve de la r\u00E9ciprocit\u00E9, tout \u00E9tranger qui se trouve l\u00E9galement sur le territoire national b\u00E9n\u00E9ficie des m\u00EAmes droits et libert\u00E9s que le Congolais, except\u00E9 les droits politiques. Il b\u00E9n\u00E9ficie de la protection accord\u00E9e aux personnes et \u00E0 leurs biens dans les conditions d\u00E9termin\u00E9es par les trait\u00E9s et les lois. Il est tenu de se conformer aux lois et r\u00E8glements de la R\u00E9publique.
+	</string>
+	<string name="Article_51">
+		L\'Etat a le devoir d\'assurer et de promouvoir la coexistence pacifique et harmonieuse de tous les groupes ethniques du pays. Il assure \u00E9galement la protection et la promotion des groupes vuln\u00E9rables et de toutes les minorit\u00E9s. Il veille \u00E0 leur \u00E9panouissement.
+	</string>
+	<string name="Article_52">
+		Tous les Congolais ont droit \u00E0 la paix et \u00E0 la s\u00E9curit\u00E9, tant sur le plan national qu\'international. Aucun individu ou groupe d\'individus ne peut utiliser une portion du territoire national comme base de d\u00E9part d\'activit\u00E9s subversives ou terroristes contre l\'Etat congolais ou tout autre Etat.
+	</string>
+	<string name="Article_53">
+		Toute personne a droit \u00E0 un environnement sain et propice \u00E0 son \u00E9panouissement int\u00E9gral. Elle a le devoir de le d\u00E9fendre. L\'Etat veille \u00E0 la protection de l\'environnement et \u00E0 la sant\u00E9 des populations.
+	</string>
+	<string name="Article_54">
+		Les conditions de construction d\'usines, de stockage, de manipulation, d\'incin\u00E9ration et d\'\u00E9vacuation des d\u00E9chets toxiques, polluants ou radioactifs provenant des unit\u00E9s industrielles ou artisanales install\u00E9es sur le territoire national sont fix\u00E9es par la loi. Toute pollution ou destruction r\u00E9sultant d\'une activit\u00E9 \u00E9conomique donne lieu \u00E0 compensation et/ou \u00E0 r\u00E9paration. La loi d\u00E9termine la nature des mesures compensatoires, r\u00E9paratoires ainsi que les modalit\u00E9s de leur ex\u00E9cution.
+	</string>
+	<string name="Article_55">
+		Le transit l\'importation, le stockage, l\'enfouissement. le d\u00E9versement dans les eaux continentales et les espaces maritimes sous juridiction nationale, l\'\u00E9pandage dans l\'espace a\u00E9rien des d\u00E9chets toxiques, polluants, radioactifs ou de tout autre produit dangereux, en provenance ou non de l\'\u00E9tranger, constitue un crime puni par la loi.
+	</string>
+	<string name="Article_56">
+		Tout acte, tout accord, toute convention, tout arrangement ou tout autre fait, qui a pour cons\u00E9quence de priver la nation, les personnes physiques ou morales de tout ou partie de leurs propres moyens d\'existence tir\u00E9s de leurs ressources ou de leurs richesses naturelles, sans pr\u00E9judice des dispositions internationales sur les crimes \u00E9conomiques, est \u00E9rig\u00E9 en infraction de pillage punie par la loi.
+	</string>
+	<string name="Article_57">
+		Les actes vis\u00E9s \u00E0 l\'article pr\u00E9c\u00E9dent ainsi que leur tentative, quelles qu\'en soient les modalit\u00E9s, s\'ils sont le fait d\'une personne investie d\'autorit\u00E9 publique, sont punis comme infraction de haute trahison.
+	</string>
+	<string name="Article_58">
+		Tous les Congolais ont le droit de jouir des richesses nationales. L\'Etat a le devoir de les redistribuer \u00E9quitablement et de garantir le droit au d\u00E9veloppement.
+	</string>
+	<string name="Article_59">
+		Tous les Congolais ont le droit de jouir du patrimoine commun de l\'humanit\u00E9. L\'Etat a le devoir d\'en faciliter la jouissance.
+	</string>
+	<string name="Article_60">
+		Le respect des droits de l\'homme et des libert\u00E9s fondamentales consacr\u00E9s dans la Constitution s\'impose aux pouvoirs publics et \u00E0 toute personne.
+	</string>
+	<string name="Article_61">
+		En aucun cas, et m\u00EAme lorsque l\'\u00E9tat de si\u00E8ge ou l\'\u00E9tat d\'urgence aura \u00E9t\u00E9 proclam\u00E9 conform\u00E9ment aux articles 85 et 86 de la pr\u00E9sente Constitution, il ne peut \u00EAtre d\u00E9rog\u00E9 aux droits et principes fondamentaux \u00E9num\u00E9r\u00E9s ci-apr\u00E8s: 
+		\n1. le droit \u00E0 la vie; 
+		\n2. l\'interdiction de la torture et des peines ou traitements cruels, inhumains ou d\u00E9gradants;
+		\n3. l\'interdiction de l\'esclavage et de la servitude; \n4. le principe de la l\u00E9galit\u00E9 des infractions et des peines; 
+		\n5. les droits de la d\u00E9fense et le droit de recours; 
+		\n6. l\'interdiction de l\'emprisonnement pour dettes; 
+		\n7. la libert\u00E9 de pens\u00E9e, de conscience et de religion.
+	</string>
+	<string name="Article_62">
+		Nul n\'est cens\u00E9 ignorer la loi. Toute personne est tenue de respecter la Constitution et de se conformer aux lois de la R\u00E9publique.
+	</string>
+	<string name="Article_63">
+		Tout Congolais a le droit et le devoir sacr\u00E9 de d\u00E9fendre le pays et son int\u00E9grit\u00E9 territoriale face \u00E0 une menace ou \u00E0 une agression ext\u00E9rieure. Un service militaire obligatoire peut \u00EAtre instaur\u00E9 dans les conditions fix\u00E9es par la loi. Toute autorit\u00E9 nationale, provinciale, locale et coutumi\u00E8re a le devoir de sauvegarder l\'unit\u00E9 de la R\u00E9publique et l\'int\u00E9grit\u00E9 de son territoire, sous peine de haute trahison.
+	</string>
+	<string name="Article_64">
+		Tout Congolais a le devoir de faire \u00E9chec \u00E0 tout individu ou groupe d\'individus qui prend le pouvoir par la force ou qui l\'exerce en violation des dispositions de la pr\u00E9sente Constitution. Toute tentative de renversement du r\u00E9gime constitutionnel constitue une infraction imprescriptible contre la nation et l\'Etat. Elle est punie conform\u00E9ment \u00E0 la loi.
+	</string>
+	<string name="Article_65">
+		Tout Congolais est tenu de remplir loyalement ses obligations vis-\u00E0-vis de l\'Etat. Il a, en outre, le devoir de s\'acquitter de ses imp\u00F4ts et taxes .
+	</string>
+	<string name="Article_66">
+		Tout Congolais a le devoir de respecter et de traiter ses concitoyens sans discrimination aucune et d\'entretenir avec eux des relations qui permettent de sauvegarder, de promouvoir et de renforcer l\'unit\u00E9 nationale, le respect et la tol\u00E9rance r\u00E9ciproques. Il a, en outre, le devoir de pr\u00E9server et de renforcer la solidarit\u00E9 nationale, singuli\u00E8rement lorsque celle-ci est menac\u00E9e.
+	</string>
+	<string name="Article_67">
+		Tout Congolais a le devoir de prot\u00E9ger la propri\u00E9t\u00E9, les biens et int\u00E9r\u00EAts publics et de respecter la propri\u00E9t\u00E9 d\'autrui.
+	</string>
+	<string name="Article_68">
+		Les institutions de la R\u00E9publique sont:
+		\n1. le Pr\u00E9sident de la R\u00E9publique; 
+		\n2. le Parlement; 
+		\n3. le Gouvernement; 
+		\n4. les Cours et Tribunaux.
+	</string>
+	<string name="Article_69">
+		Le Pr\u00E9sident de la R\u00E9publique est le Chef de l\'Etat. Il repr\u00E9sente la nation et le symbole de l\'unit\u00E9 nationale. Il veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement r\u00E9gulier des pouvoirs publics et des Institutions ainsi que la continuit\u00E9 de l\'Etat. Il est le garant de l\'ind\u00E9pendance nationale, de l\'int\u00E9grit\u00E9 du territoire, de la souverainet\u00E9 nationale et du respect des trait\u00E9s et accords internationaux.
+	</string>
+	<string name="Article_70">
+		Le Pr\u00E9sident de la R\u00E9publique est \u00E9lu au suffrage universel direct pour un mandat de cinq ans renouvelable une seule fois. A la fin de son mandat, le Pr\u00E9sident de la R\u00E9publique reste en fonction jusqu\u2019\u00E0 l\'installation effective du nouveau Pr\u00E9sident \u00E9lu.
+	</string>
+	<string name="Article_71">
+		(Modifié par l\'article 1r de la Loi Nº11/002 du 20 janvier 2011portant révision de certains articles de la Constitution de la République Démocratique du Congo)
+		\nLe Pr\u00E9sident de la R\u00E9publique est \u00E9lu \u00E0 la majorit\u00E9 simple des suffrages exprim\u00E9s.
+	</string>
+	<string name="Article_72">
+		Nul ne peut \u00EAtre candidat \u00E0 l\'\u00E9lection du Pr\u00E9sident de la R\u00E9publique s\'il ne remplit les conditions ci-apr\u00E8s : 
+		\n1. poss\u00E9der la nationalit\u00E9 congolaise d\'origine; 
+		\n2. \u00EAtre \u00E2g\u00E9 de 30 ans au moins ;
+		\n3. jouir de la pl\u00E9nitude de ses droits civils et politiques; 
+		\n4. ne pas se trouver dans un des cas d\'exclusion pr\u00E9vus par la loi \u00E9lectorale.
+	</string>
+	<string name="Article_73">
+		Le scrutin pour l\'\u00E9lection du Pr\u00E9sident de la R\u00E9publique est convoqu\u00E9 par la Commission \u00E9lectorale nationale ind\u00E9pendante, quatre-vingt dix jours avant l\'expiration du mandat du Pr\u00E9sident en exercice.
+	</string>
+	<string name="Article_74">
+		Le Pr\u00E9sident de la R\u00E9publique \u00E9lu entre en fonction dans les dix jours qui suivent la proclamation des r\u00E9sultats d\u00E9finitifs de l\u2019\u00E9lection pr\u00E9sidentielle. Avant son entr\u00E9e en fonction, le Pr\u00E9sident de la R\u00E9publique pr\u00EAte, devant la Cour Constitutionnelle, le serment ci-apr\u00E8s: \u00AB Moi .... \u00E9lu Pr\u00E9sident de la R\u00E9publique D\u00E9mocratique du Congo, je jure solennellement devant Dieu et la nation:
+		\n - d\'observer et de d\u00E9fendre la Constitution et les lois de la R\u00E9publique;
+		\n - de maintenir son ind\u00E9pendance et l\'int\u00E9grit\u00E9 de son territoire;
+		\n - de sauvegarder l\'unit\u00E9 nationale;
+		\n - de ne me laisser guider que par l\'int\u00E9r\u00EAt g\u00E9n\u00E9ral et le respect des droits de la personne humaine;
+		\n - de consacrer toutes mes forces \u00E0 la promotion du bien commun et de la paix;
+		\n - de remplir, loyalement et en fid\u00E8le serviteur du peuple, les hautes fonctions qui me sont confi\u00E9es. \u00BB.
+	</string>
+	<string name="Article_75">
+		En cas de vacance pour cause de d\u00E9c\u00E8s, de d\u00E9mission ou pour toute autre cause d\'emp\u00EAchement d\u00E9finitif, les fonctions de Pr\u00E9sident de la R\u00E9publique, \u00E0 l\'exception de celles mentionn\u00E9es aux articles 78, 81 et 82 sont provisoirement exerc\u00E9es par le Pr\u00E9sident du S\u00E9nat.
+	</string>
+	<string name="Article_76">
+		La vacance de la pr\u00E9sidence de la R\u00E9publique est d\u00E9clar\u00E9e par la Cour constitutionnelle saisie par le Gouvernement. Le Pr\u00E9sident de la R\u00E9publique par int\u00E9rim veille \u00E0 l\'organisation de l\'\u00E9lection du nouveau Pr\u00E9sident de la R\u00E9publique dans les conditions et les d\u00E9lais pr\u00E9vus par la Constitution. En cas de vacance ou lorsque l\'emp\u00EAchement est d\u00E9clar\u00E9 d\u00E9finitif par la Cour constitutionnelle, l\'\u00E9lection du nouveau Pr\u00E9sident de la R\u00E9publique a lieu, sur convocation de la Commission \u00E9lectorale nationale ind\u00E9pendante, soixante jours au moins et quatre-vingt-dix jours au plus, apr\u00E8s l\'ouverture de la vacance ou de la d\u00E9claration du caract\u00E8re d\u00E9finitif de l\'emp\u00EAchement. En cas de force majeure, ce d\u00E9lai peut \u00EAtre prolong\u00E9 \u00E0 cent vingt jours au plus, par la Cour constitutionnelle saisie par la Commission \u00E9lectorale nationale ind\u00E9pendante. Le Pr\u00E9sident \u00E9lu commence un nouveau mandat.
+	</string>
+	<string name="Article_77">
+		Le Pr\u00E9sident de la R\u00E9publique adresse des messages \u00E0 la Nation. Il communique avec les Chambres du Parlement par des messages qu\'il lit ou fait lire et qui ne donnent lieu \u00E0 aucun d\u00E9bat. Il prononce, une fois l\'an, devant l\'Assembl\u00E9e nationale et le S\u00E9nat r\u00E9unis en Congr\u00E8s, un discours sur l\'\u00E9tat de la Nation.
+	</string>
+	<string name="Article_78">
+		Le Pr\u00E9sident de la R\u00E9publique nomme le Premier ministre au sein de la majorit\u00E9 parlementaire apr\u00E8s consultation de celle-ci. Il met fin \u00E0 ses fonctions sur pr\u00E9sentation par celui-ci de la d\u00E9mission du Gouvernement. Si une telle majorit\u00E9 n\'existe pas, le Pr\u00E9sident de la R\u00E9publique confie une mission d\'information \u00E0 une personnalit\u00E9 en vue d\'identifier une coalition. La mission d\'information est de trente jours renouvelable une seule fois. Le Pr\u00E9sident de la R\u00E9publique nomme les autres membres du Gouvernement et met fin \u00E0 leurs fonctions sur proposition du Premier ministre.
+	</string>
+	<string name="Article_79">
+		Le Pr\u00E9sident de la R\u00E9publique convoque et pr\u00E9side le Conseil des ministres. En cas d\'emp\u00EAchement, il d\u00E9l\u00E8gue ce pouvoir au Premier ministre. Le Pr\u00E9sident de la R\u00E9publique promulgue les lois dans les conditions pr\u00E9vues par la pr\u00E9sente Constitution. Il statue par voie d\'ordonnance. Les ordonnances du Pr\u00E9sident de la R\u00E9publique autres que celles pr\u00E9vues aux articles 78 alin\u00E9a premier, 80, 84 et 143 sont contresign\u00E9es par le Premier ministre.
+	</string>
+	<string name="Article_80">
+		Le Pr\u00E9sident de la R\u00E9publique investit par ordonnance les Gouverneurs et les Vice-Gouverneurs de province \u00E9lus, dans un d\u00E9lai de quinze jours conform\u00E9ment \u00E0 l\'article 198.
+	</string>
+	<string name="Article_81">
+		Sans pr\u00E9judice des autres dispositions de la Constitution, le Pr\u00E9sident de la R\u00E9publique nomme, rel\u00E8ve de leurs fonctions et, le cas \u00E9ch\u00E9ant, r\u00E9voque, sur proposition du Gouvernement d\u00E9lib\u00E9r\u00E9e en Conseil des ministres:
+		\n 1. les ambassadeurs et les envoy\u00E9s extraordinaires; \n 2. les officiers g\u00E9n\u00E9raux et sup\u00E9rieurs des forces arm\u00E9es et de la police nationale, le Conseil sup\u00E9rieur de la d\u00E9fense entendu;
+		\n 3. le chef d\'\u00E9tat major g\u00E9n\u00E9ral, les chefs d\'\u00E9tat-major et les commandants des grandes unit\u00E9s des forces arm\u00E9es, le Conseil sup\u00E9rieur de la d\u00E9fense entendu;
+		\n 4. les hauts fonctionnaires de l\'administration publique; \n 5. les responsables des services et \u00E9tablissements publics; \n 6. les mandataires de l\'Etat dans les entreprises et organismes publics, except\u00E9 les commissaires aux comptes. Les ordonnances du Pr\u00E9sident de la R\u00E9publique intervenues en la mati\u00E8re sont contresign\u00E9es par le Premier Ministre.
+	</string>
+	<string name="Article_82">
+		Le Pr\u00E9sident de la R\u00E9publique nomme, rel\u00E8ve de leurs fonctions et, le cas \u00E9ch\u00E9ant, r\u00E9voque, par ordonnance, les magistrats du si\u00E8ge et du parquet sur proposition du Conseil sup\u00E9rieur de la magistrature. Les ordonnances dont question \u00E0 l\'alin\u00E9a pr\u00E9c\u00E9dent sont contresign\u00E9es par le Premier ministre.
+	</string>
+	<string name="Article_83">
+		Le Pr\u00E9sident de la R\u00E9publique est le commandant supr\u00EAme des Forces arm\u00E9es. Il pr\u00E9side le Conseil sup\u00E9rieur de la d\u00E9fense.
+	</string>
+	<string name="Article_84">
+		Le Pr\u00E9sident de la R\u00E9publique conf\u00E8re les grades dans les ordres nationaux et les d\u00E9corations, conform\u00E9ment \u00E0 la loi.
+	</string>
+	<string name="Article_85">
+		Lorsque des circonstances graves menacent, d\'une mani\u00E8re imm\u00E9diate, l\'ind\u00E9pendance ou l\'int\u00E9grit\u00E9 du territoire national ou qu\'elles provoquent l\'interruption du fonctionnement r\u00E9gulier des institutions, le Pr\u00E9sident de la R\u00E9publique proclame l\'\u00E9tat d\'urgence ou l\'\u00E9tat de si\u00E8ge, apr\u00E8s concertation avec le Premier ministre et les Pr\u00E9sidents des deux Chambres, conform\u00E9ment aux articles 144 et 145 de la pr\u00E9sente Constitution. Il en informe la nation par un message. Les modalit\u00E9s d\'application de l\'\u00E9tat d\'urgence et de l\'\u00E9tat de si\u00E8ge sont d\u00E9termin\u00E9es par la loi.
+	</string>
+	<string name="Article_86">
+		Le Pr\u00E9sident de la R\u00E9publique d\u00E9clare la guerre par ordonnance d\u00E9lib\u00E9r\u00E9e en Conseil des ministres apr\u00E8s avis du Conseil sup\u00E9rieur de la d\u00E9fense et autorisation de l\'Assembl\u00E9e nationale et du S\u00E9nat, conform\u00E9ment \u00E0 l\'article 143 de la pr\u00E9sente Constitution.
+	</string>
+	<string name="Article_87">
+		Le Pr\u00E9sident de la R\u00E9publique exerce le droit de gr\u00E2ce. Il peut remettre, commuer ou r\u00E9duire les peines.
+	</string>
+	<string name="Article_88">
+		Le Pr\u00E9sident de la R\u00E9publique accr\u00E9dite les ambassadeurs et les envoy\u00E9s extraordinaires aupr\u00E8s des Etats \u00E9trangers et des organisations internationales. Les ambassadeurs et les envoy\u00E9s extraordinaires \u00E9trangers sont accr\u00E9dit\u00E9s aupr\u00E8s de lui.
+	</string>
+	<string name="Article_89">
+		Les \u00E9moluments et la liste civile du Pr\u00E9sident de la R\u00E9publique sont fix\u00E9s par la loi de finances.
+	</string>
+	<string name="Article_90">
+		Le Gouvernement est compos\u00E9 du Premier ministre, de ministres, de Vice\u00ACministres et, le cas \u00E9ch\u00E9ant, de Vice-premier ministres, de ministres d\'Etat et de ministres d\u00E9l\u00E9gu\u00E9s. Il est dirig\u00E9 par le Premier ministre, chef du Gouvernement. En cas d\'emp\u00EAchement, son int\u00E9rim est assur\u00E9 par le membre du Gouvernement qui a la pr\u00E9s\u00E9ance. La composition du Gouvernement tient compte de la repr\u00E9sentativit\u00E9 nationale. Avant d\'entrer en fonction, le Premier ministre pr\u00E9sente \u00E0 l\'Assembl\u00E9e nationale le programme du Gouvernement. Lorsque ce programme est approuv\u00E9 \u00E0 la majorit\u00E9 absolue des membres qui composent l\'Assembl\u00E9e nationale, celle-ci investit le Gouvernement.
+	</string>
+	<string name="Article_91">
+		Le Gouvernement d\u00E9finit, en concertation avec le Pr\u00E9sident de la R\u00E9publique, la politique de la Nation et en assume la responsabilit\u00E9. Le Gouvernement conduit la politique de la Nation. La d\u00E9fense, la s\u00E9curit\u00E9 et les affaires \u00E9trang\u00E8res sont des domaines de collaboration entre le Pr\u00E9sident de la R\u00E9publique et le Gouvernement. Le Gouvernement dispose de l\'administration publique, des Forces arm\u00E9es, de la Police nationale et des services de s\u00E9curit\u00E9. Le Gouvernement est responsable devant l\'Assembl\u00E9e nationale dans les conditions pr\u00E9vues aux articles 90, 100, 146 et 147. Une ordonnance d\u00E9lib\u00E9r\u00E9e en Conseil des ministres fixe l\'organisation, le fonctionnement du Gouvernement et les modalit\u00E9s de collaboration entre le Pr\u00E9sident de la R\u00E9publique et le Gouvernement ainsi qu\'entre les membres du Gouvernement.
+	</string>
+	<string name="Article_92">
+		Le Premier ministre assure l\'ex\u00E9cution des lois et dispose du pouvoir r\u00E9glementaire sous r\u00E9serve des pr\u00E9rogatives d\u00E9volues au Pr\u00E9sident de la R\u00E9publique par la pr\u00E9sente Constitution. Il statue par voie de d\u00E9cret. Il nomme, par d\u00E9cret d\u00E9lib\u00E9r\u00E9 en Conseil des ministres, aux emplois civils et militaires autres que ceux pourvus par le Pr\u00E9sident de la R\u00E9publique. Les actes du Premier ministre sont contresign\u00E9s, le cas \u00E9ch\u00E9ant, par les ministres charg\u00E9s de leur ex\u00E9cution. Le Premier ministre peut d\u00E9l\u00E9guer certains de ses pouvoirs aux ministres.
+	</string>
+	<string name="Article_93">
+		Le ministre est responsable de son d\u00E9partement. Il applique le programme gouvernemental dans son minist\u00E8re, sous la direction et la coordination du Premier ministre. Il statue par voie d\'arr\u00EAt\u00E9.
+	</string>
+	<string name="Article_94">
+		Les Vice-ministres exercent, sous l\'autorit\u00E9 des ministres auxquels ils sont adjoints, les attributions qui leur sont conf\u00E9r\u00E9es par l\'ordonnance portant organisation et fonctionnement du Gouvernement. Ils assument l\'int\u00E9rim des ministres en cas d\'absence ou d\'emp\u00EAchement.
+	</string>
+	<string name="Article_95">
+		Les \u00E9moluments des membres du gouvernement sont fix\u00E9s par la loi de finances. Le Premier ministre b\u00E9n\u00E9ficie, en outre, d\'une dotation.
+	</string>
+	<!--# Paragraphe 3 : Des dispositions communes au Pr\u00E9sident de la R\u00E9publique et au Gouvernement. -->
+	<string name="Article_96">
+		Les fonctions de Pr\u00E9sident de la R\u00E9publique sont incompatibles avec l\'exercice de tout autre mandat \u00E9lectif, de tout emploi public, civil ou militaire et de toute activit\u00E9 profession ne Ile . Le mandat du Pr\u00E9sident de la R\u00E9publique est \u00E9galement incompatible avec toute responsabilit\u00E9 au sein d\'un parti politique.
+	</string>
+	<string name="Article_97">
+		Les fonctions de membre du Gouvernement sont incompatibles avec l\'exercice de tout mandat \u00E9lectif, de tout emploi public, civil ou militaire et de toute activit\u00E9 professionnelle \u00E0 l\'exception des activit\u00E9s agricoles, artisanales, culturelles, d\'enseignement et de recherche. Elles sont \u00E9galement incompatibles avec toute responsabilit\u00E9 au sein d\'un parti politique.
+	</string>
+	<string name="Article_98">
+		Durant leurs fonctions, le Pr\u00E9sident de la R\u00E9publique et les membres du Gouvernement ne peuvent, par eux-m\u00EAmes ou par personne interpos\u00E9e, ni acheter, ni acqu\u00E9rir d\'aucune autre fa\u00E7on, ni prendre en bail un bien qui appartienne au domaine de l\'Etat, des provinces ou des entit\u00E9s d\u00E9centralis\u00E9es. Ils ne peuvent prendre part directement ou indirectement aux march\u00E9s publics au b\u00E9n\u00E9fice des administrations ou des institutions dans lesquelles le pouvoir central, les provinces et les entit\u00E9s administratives d\u00E9centralis\u00E9es ont des int\u00E9r\u00EAts.
+	</string>
+	<string name="Article_99">
+		Avant leur entr\u00E9e en fonction et \u00E0 l\'expiration de celle-ci, le Pr\u00E9sident de la R\u00E9publique et les membres du Gouvernement sont tenus de d\u00E9poser, devant la Cour constitutionnelle, la d\u00E9claration \u00E9crite de leur patrimoine familial, \u00E9num\u00E9rant leurs biens meubles, y compris actions, parts sociales, obligations, autres valeurs, comptes en banque, leurs biens immeubles, y compris terrains non b\u00E2tis, for\u00EAts, plantations et terres agricoles, mines et tous autres immeubles, avec indication des titres pertinents. Le patrimoine familial inclut les biens du conjoint selon le r\u00E9gime matrimonial, des enfants mineurs et des enfants, m\u00EAme majeurs, \u00E0 charge du couple. La Cour constitutionnelle communique cette d\u00E9claration \u00E0 l\'administration fiscale. Faute de cette d\u00E9claration, end\u00E9ans les trente jours, la personne concern\u00E9e est r\u00E9put\u00E9e d\u00E9missionnaire. Dans les trente jours suivant la fin des fonctions, faute de cette d\u00E9claration, en je. cas de d\u00E9claration frauduleuse ou de soup\u00E7on d\'enrichissement sans cause, la Cour constitutionnelle ou la Cour de cassation est saisie selon le cas.
+	</string>
+	<!--# Section 2 : Du pouvoir l\u00E9gislatif -->
+	<string name="Article_100">
+		Le pouvoir l\u00E9gislatif est exerc\u00E9 par un Parlement compos\u00E9 de deux Chambres: \nl\'Assembl\u00E9e nationale et le S\u00E9nat. Sans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, le Parlement vote les lois. Il contr\u00F4le le Gouvernement, les entreprises publiques ainsi que les \u00E9tablissements et les services publics. Chacune des Chambres jouit de l\'autonomie administrative et financi\u00E8re et dispose d\'une dotation propre.
+	</string>
+	<string name="Article_101">
+		Les membres de l\'Assembl\u00E9e nationale portent le titre de d\u00E9put\u00E9 national. Ils sont \u00E9lus au suffrage universel direct et secret. Les candidats aux \u00E9lections l\u00E9gislatives sont pr\u00E9sent\u00E9s par des partis politiques ou par des regroupements politiques. Ils peuvent aussi se pr\u00E9senter en ind\u00E9pendants. Chaque d\u00E9put\u00E9 national est \u00E9lu avec deux suppl\u00E9ants. Le d\u00E9put\u00E9 national repr\u00E9sente la nation. Tout mandat imp\u00E9ratif est nul. Le nombre de d\u00E9put\u00E9s nationaux ainsi que les conditions de leur \u00E9lection et \u00E9ligibilit\u00E9 sont fix\u00E9s par la loi \u00E9lectorale.
+	</string>
+	<string name="Article_102">
+		Nul ne peut \u00EAtre candidat aux \u00E9lections l\u00E9gislatives s\'il ne remplit les conditions ci-apr\u00E8s: 
+		\n 1. \u00EAtre Congolais; 
+		\n 2. \u00EAtre \u00E2g\u00E9 de 25 ans au moins;
+		\n 3. jouir de la pl\u00E9nitude de ses droits civils et politiques; 
+		\n 4. ne pas se trouver dans un des cas d\'exclusion pr\u00E9vus par la loi \u00E9lectorale.
+	</string>
+	<string name="Article_103">
+		Le d\u00E9put\u00E9 national est \u00E9lu pour un mandat de cinq ans. Il est r\u00E9\u00E9ligible. Le mandat de d\u00E9put\u00E9 national commence \u00E0 la validation des pouvoirs par l\'Assembl\u00E9e nationale et expire \u00E0 l\'installation de la nouvelle Assembl\u00E9e.
+	</string>
+	<string name="Article_104">
+		Les membres du S\u00E9nat portent le titre de s\u00E9nateur. Le s\u00E9nateur repr\u00E9sente sa province, mais son mandat est national. Tout mandat imp\u00E9ratif est nul. Les candidats s\u00E9nateurs sont pr\u00E9sent\u00E9s par des partis politiques ou par des regroupements politiques. Ils peuvent aussi se pr\u00E9senter en ind\u00E9pendants. Ils sont \u00E9lus au second degr\u00E9 par les Assembl\u00E9es provinciales. Chaque s\u00E9nateur est \u00E9lu avec deux suppl\u00E9ants. Les anciens Pr\u00E9sidents de la R\u00E9publique \u00E9lus sont de droit s\u00E9nateurs \u00E0 vie. Le nombre de s\u00E9nateurs ainsi que les conditions de leur \u00E9lection et \u00E9ligibilit\u00E9 sont fix\u00E9s par la loi \u00E9lectorale.
+	</string>
+	<string name="Article_105">
+		Le s\u00E9nateur est \u00E9lu pour un mandat de cinq ans. Il est r\u00E9\u00E9ligible. Le mandat de s\u00E9nateur commence \u00E0 la validation des pouvoirs par le S\u00E9nat et expire \u00E0 l\'installation du nouveau S\u00E9nat.
+	</string>
+	<string name="Article_106">
+		Nul ne peut \u00EAtre candidat membre du S\u00E9nat s\'il ne remplit les conditions ci-apr\u00E8s: 
+		\n 1. \u00EAtre Congolais ; 
+		\n 2. \u00EAtre \u00E2g\u00E9 de 30 ans au moins ;
+		\n 3. jouir de la pl\u00E9nitude de ses droits civils et politiques; 
+		\n 4. ne pas se trouver dans un des cas d\'exclusion pr\u00E9vus par la loi \u00E9lectorale.
+	</string>
+	<string name="Article_107">
+		Aucun parlementaire ne peut \u00EAtre poursuivi, recherch\u00E9, arr\u00EAt\u00E9, d\u00E9tenu ou jug\u00E9 en raison des opinions ou votes \u00E9mis par lui dans l\'exercice de ses fonctions. Aucun parlementaire ne peut, en cours de sessions, \u00EAtre poursuivi ou arr\u00EAt\u00E9, sauf en cas de flagrant d\u00E9lit, qu\'avec l\'autorisation de l\'Assembl\u00E9e nationale ou du S\u00E9nat, selon le cas. En dehors de sessions, aucun parlementaire ne peut \u00EAtre arr\u00EAt\u00E9 qu\'avec l\'autorisation du Bureau de l\'Assembl\u00E9e nationale ou du Bureau du S\u00E9nat, sauf en cas de flagrant d\u00E9lit, de poursuites autoris\u00E9es ou de condamnation d\u00E9finitive. La d\u00E9tention ou la poursuite d\'un parlementaire est suspendue si la Chambre dont il est membre le requiert. La suspension ne peut exc\u00E9der la dur\u00E9e de la session en cours.
+	</string>
+	<string name="Article_108">
+		Le mandat de d\u00E9put\u00E9 national est incompatible avec le mandat de s\u00E9nateur et vice-versa. Le mandat de d\u00E9put\u00E9 ou de s\u00E9nateur est incompatible avec les fonctions ou mandats suivants: 
+		\n 1. membre du Gouvernement; 
+		\n 2. membre d\'une institution d\'appui \u00E0 la d\u00E9mocratie; 
+		\n 3. membre des Forces arm\u00E9es, de la police nationale et des services de s\u00E9curit\u00E9; 
+		\n 4. magistrat; 
+		\n 5. agent de carri\u00E8re des services publics de l\'Etat; \n 6. cadre politico-administratif de la territoriale, \u00E0 l\'exception des chefs de collectivit\u00E9-chefferie et de groupement;
+		\n 7. mandataire public actif; \n 8. membre des cabinets du Pr\u00E9sident de la R\u00E9publique, du Premier ministre, du Pr\u00E9sident de l\'Assembl\u00E9e nationale, du Pr\u00E9sident du S\u00E9nat, des membres du Gouvernement, et g\u00E9n\u00E9ralement d\'une autorit\u00E9 politique ou administrative de l\'Etat, employ\u00E9 dans une entreprise publique ou dans une soci\u00E9t\u00E9 d\'\u00E9conomie mixte;
+		\n 9. tout autre mandat \u00E9lectif. Le mandat de d\u00E9put\u00E9 national ou de s\u00E9nateur est incompatible avec l\'exercice des fonctions r\u00E9mun\u00E9r\u00E9es conf\u00E9r\u00E9es par un Etat \u00E9tranger ou un organisme international.
+	</string>
+	<string name="Article_109">
+		Les d\u00E9put\u00E9s nationaux et les s\u00E9nateurs ont le droit de circuler sans restriction ni entrave \u00E0 l\'int\u00E9rieur du territoire national et d\'en sortir. Ils ont droit \u00E0 une indemnit\u00E9 \u00E9quitable qui assure leur ind\u00E9pendance et leur dignit\u00E9. Celle-ci est pr\u00E9vue dans la loi des finances. Ils ont droit \u00E0 une indemnit\u00E9 de sortie \u00E9gale \u00E0 six mois de leurs \u00E9moluments. Les modalit\u00E9s d\'application de l\'alin\u00E9a pr\u00E9c\u00E9dent ainsi que les autres droits des Parlementaires sont fix\u00E9s par le R\u00E8glement int\u00E9rieur de chacune des Chambres.
+	</string>
+	<string name="Article_110">
+		Le mandat de d\u00E9put\u00E9 national ou de s\u00E9nateur prend fin par: 
+		\n 1. expiration de la l\u00E9gislature;
+		\n 2. d\u00E9c\u00E8s; 
+		\n 3. d\u00E9mission; 
+		\n 4. emp\u00EAchement d\u00E9finitif; 
+		\n5. incapacit\u00E9 permanente; 
+		\n6. absence non justifi\u00E9e et non autoris\u00E9e \u00E0 plus d\'un quart des s\u00E9ances d\'une session; 
+		\n 7. exclusion pr\u00E9vue par la loi \u00E9lectorale ; 
+		\n 8. acceptation d\'une fonction incompatible avec le mandat de d\u00E9put\u00E9 ou de s\u00E9nateur;
+		\n 9. condamnation irr\u00E9vocable \u00E0 une peine de servitude p\u00E9nale principale pour infraction intentionnelle.
+		\n Toute cause d\'in\u00E9ligibilit\u00E9, \u00E0 la date des \u00E9lections, constat\u00E9e ult\u00E9rieurement par l\'autorit\u00E9 judiciaire comp\u00E9tente entra\u00EEne la perte du mandat de d\u00E9put\u00E9 national ou de s\u00E9nateur. 
+		\nDans ces cas, il est remplac\u00E9 par son premier suppl\u00E9ant. \nTout d\u00E9put\u00E9 national ou tout s\u00E9nateur qui quitte d\u00E9lib\u00E9r\u00E9ment son parti politique durant la l\u00E9gislature est r\u00E9put\u00E9 renoncer \u00E0 son mandat parlementaire obtenu dans le cadre dudit parti politique.
+	</string>
+	<string name="Article_111">
+		L\'Assembl\u00E9e nationale et le S\u00E9nat sont dirig\u00E9s, chacun, par un Bureau de sept membres comprenant: 
+		\n 1. un pr\u00E9sident; 
+		\n 2. un premier vice - pr\u00E9sident; 
+		\n 3. un deuxi\u00E8me vice - pr\u00E9sident;
+		\n 4. un rapporteur; 
+		\n 5. un rapporteur adjoint; 
+		\n 6. un questeur; 
+		\n 7. un questeur adjoint. \nLes Pr\u00E9sidents des deux chambres doivent \u00EAtre des Congolais d\'origine. 
+		\nLes membres du Bureau sont \u00E9lus dans les conditions fix\u00E9es par le R\u00E8glement int\u00E9rieur de leur Chambre respective.
+	</string>
+	<string name="Article_112">
+		La Chaque Chambre du Parlement adopte son R\u00E8glement int\u00E9rieur. Le R\u00E8glement int\u00E9rieur d\u00E9termine notamment: \n 1. la dur\u00E9e et les r\u00E8gles de fonctionnement du Bureau, les pouvoirs et pr\u00E9rogatives de son Pr\u00E9sident ainsi que des autres membres du Bureau; 
+		\n 2. le nombre, le mode de d\u00E9signation, la composition, le r\u00F4le et la comp\u00E9tence de ses commissions permanentes ainsi que la cr\u00E9ation et le fonctionnement des commissions sp\u00E9ciales et temporaires; 
+		\n 3. l\'organisation des services administratifs dirig\u00E9s par un Secr\u00E9taire g\u00E9n\u00E9ral de l\'administration publique de chaque Chambre; 
+		\n 4. le r\u00E9gime disciplinaire des d\u00E9put\u00E9s et des s\u00E9nateurs; 
+		\n 5. les diff\u00E9rents modes de scrutin, \u00E0 l\'exclusion de ceux pr\u00E9vus express\u00E9ment par la pr\u00E9sente Constitution. Avant d\'\u00EAtre mis en application, le R\u00E8glement int\u00E9rieur est obligatoirement transmis par le Pr\u00E9sident du Bureau provisoire de la Chambre int\u00E9ress\u00E9e \u00E0 la Cour constitutionnelle qui se prononce sur sa conformit\u00E9 \u00E0 la Constitution dans un d\u00E9lai de quinze jours. Pass\u00E9 ce d\u00E9lai, le R\u00E8glement int\u00E9rieur est r\u00E9put\u00E9 conforme. Les dispositions d\u00E9clar\u00E9es non conformes ne peuvent \u00EAtre mises en application.
+	</string>
+	<string name="Article_113">
+		Outre les Commissions permanentes et sp\u00E9ciales, les deux Chambres peuvent constituer une ou plusieurs Commissions mixtes paritaires pour concilier les points de vue lorsqu\'elles sont en d\u00E9saccord au sujet d\'une question sur laquelle elles doivent adopter la m\u00EAme d\u00E9cision en termes identiques. Si le d\u00E9saccord persiste, l\'Assembl\u00E9e nationale statue d\u00E9finitivement.
+	</string>
+	<string name="Article_114">
+		Chaque Chambre du Parlement se r\u00E9unit de plein droit en session extraordinaire le quinzi\u00E8me jour suivant la proclamation des r\u00E9sultats des \u00E9lections l\u00E9gislatives par la Commission \u00E9lectorale nationale ind\u00E9pendante en vue de : 
+		\n 1. l\'installation du Bureau provisoire dirig\u00E9 par le doyen d\'\u00E2ge assist\u00E9 des deux les moins \u00E2g\u00E9s; 
+		\n 2. la validation des pouvoirs; 
+		\n 3. l\'\u00E9lection et l\'installation du Bureau d\u00E9finitif; 
+		\n 4. l\'\u00E9laboration et l\'adoption du R\u00E8glement int\u00E9rieur.
+		La s\u00E9ance d\'ouverture est pr\u00E9sid\u00E9e par le Secr\u00E9taire g\u00E9n\u00E9ral de l\'Administration de chacune des deux Chambres. Pendant cette session, les deux Chambres se r\u00E9unissent pour \u00E9laborer et adopter le R\u00E8glement int\u00E9rieur du Congr\u00E8s. La session extraordinaire prend fin \u00E0 l\'\u00E9puisement de l\'ordre du jour. 
+	</string>
+	<string name="Article_115"> L\'Assembl\u00E9e nationale et le S\u00E9nat tiennent de plein droit, chaque ann\u00E9e, deux sessions ordinaires : 
+		\n 1. la premi\u00E8re s\'ouvre le 15 mars et se cl\u00F4ture le 15 juin; 
+		\n 2. la deuxi\u00E8me s\'ouvre le 15 septembre et se cl\u00F4ture le 15 d\u00E9cembre. Si le 15 du mois de mars ou du mois de septembre est f\u00E9ri\u00E9 ou tombe un dimanche, l\'ouverture de la session a lieu le premier jour ouvrable qui suit. La dur\u00E9e de chaque session ordinaire ne peut exc\u00E9der trois mois.
+	</string>
+	<string name="Article_116">
+		Chaque Chambre du Parlement peut \u00EAtre convoqu\u00E9e en session extraordinaire par son Pr\u00E9sident sur un ordre du jour d\u00E9termin\u00E9, \u00E0 la demande soit de son Bureau, soit de la moiti\u00E9 de ses membres, soit du Pr\u00E9sident de la R\u00E9publique, soit du Gouvernement. La cl\u00F4ture intervient d\u00E8s que la Chambre a \u00E9puis\u00E9 l\'ordre du jour pour lequel elle a \u00E9t\u00E9 convoqu\u00E9e et, au plus tard, trente jours \u00E0 compter de la date du d\u00E9but de la session.
+	</string>
+	<string name="Article_117">
+		L\'inscription, par priorit\u00E9, \u00E0 l\'ordre du jour de chacune des Chambres d\'un projet de loi, d\'une proposition de loi ou d\'une d\u00E9claration de politique g\u00E9n\u00E9rale est de droit si le Gouvernement, apr\u00E8s d\u00E9lib\u00E9ration en Conseil des ministres, en fait la demande.
+	</string>
+	<string name="Article_118">
+		L\'Assembl\u00E9e nationale et le S\u00E9nat ne si\u00E8gent valablement qu\'\u00E0 la majorit\u00E9 absolue des membres qui les composent. Les s\u00E9ances de l\'Assembl\u00E9e nationale et du S\u00E9nat sont publiques, sauf si le huis clos est prononc\u00E9. Le compte rendu analytique des d\u00E9bats ainsi que les documents de l\'Assembl\u00E9e nationale et du S\u00E9nat sont publi\u00E9s dans les annales parlementaires.
+	</string>
+	<string name="Article_119">
+		Les deux Chambres se r\u00E9unissent en Congr\u00E8s pour les cas suivants: 
+		\n 1. la proc\u00E9dure de r\u00E9vision constitutionnelle, conform\u00E9ment aux articles 218 \u00E0 220 de la pr\u00E9sente Constitution; \n 2. l\'autorisation de la proclamation de l\'\u00E9tat d\'urgence ou de l\'\u00E9tat de si\u00E8ge et de la d\u00E9claration de guerre, conform\u00E9ment aux articles 85 et 86 de la pr\u00E9sente Constitution ; \n 3. l\'audition du discours du Pr\u00E9sident de la R\u00E9publique sur l\'\u00E9tat de la Nation, conform\u00E9ment \u00E0 l\'article 77 de la pr\u00E9sente Constitution; \n 4. la d\u00E9signation des trois membres de la Cour constitutionnelle, conform\u00E9ment aux dispositions de l\'article 158 de la pr\u00E9sente Constitution.
+	</string>
+	<string name="Article_120">
+		Lorsque les deux Chambres si\u00E8gent en Congr\u00E8s, le bureau est celui de l\'Assembl\u00E9e nationale et la pr\u00E9sidence est, \u00E0 tour de r\u00F4le, assur\u00E9e par le Pr\u00E9sident de l\'Assembl\u00E9e nationale et le Pr\u00E9sident du S\u00E9nat. Le Congr\u00E8s adopte son R\u00E8glement int\u00E9rieur. Avant d\'\u00EAtre mis en application, le R\u00E8glement int\u00E9rieur est communiqu\u00E9 par le Pr\u00E9sident du Congr\u00E8s \u00E0 la Cour constitutionnelle qui se prononce sur la conformit\u00E9 de ce r\u00E8glement \u00E0 la pr\u00E9sente Constitution dans un d\u00E9lai de 15 jours. Pass\u00E9 ce d\u00E9lai, le R\u00E8glement int\u00E9rieur est r\u00E9put\u00E9 conforme. Les dispositions d\u00E9clar\u00E9es non conformes ne peuvent \u00EAtre mises en application.
+	</string>
+	<string name="Article_121">
+		Chacune des Chambres ou le Congr\u00E8s ne si\u00E8ge valablement que pour autant que la majorit\u00E9 absolue de ses membres se trouve r\u00E9unie. \nSous r\u00E9serve des autres dispositions de la Constitution, toute r\u00E9solution ou toute d\u00E9cision est prise conform\u00E9ment au R\u00E8glement int\u00E9rieur de chacune des Chambres ou du Congr\u00E8s. \nLes votes sont \u00E9mis, soit par appel nominal et \u00E0 haute voix, soit \u00E0 main lev\u00E9e, soit par assis et lev\u00E9, soit par bulletin secret, soit par proc\u00E9d\u00E9 \u00E9lectronique. \nSur l\'ensemble d\'un texte de loi, le vote intervient par appel nominal et \u00E0 haute voix. \nLes votes peuvent \u00E9galement \u00EAtre \u00E9mis par un proc\u00E9d\u00E9 technique donnant plus de garanties. 
+		\nSous r\u00E9serve des autres dispositions de la Constitution, chacune des Chambres ou le Congr\u00E8s peut d\u00E9cider le secret du vote pour l\'adoption d\'une r\u00E9solution d\u00E9termin\u00E9e. \nToutefois, en cas des d\u00E9lib\u00E9rations portant sur des personnes, le vote s\'effectue par bulletin secret.
+	</string>
+	<string name="Article_122">
+		Sans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, la loi fixe les r\u00E8gles concernant: 
+		\n 1. les droits civiques et les garanties fondamentales accord\u00E9es aux citoyens pour l\'exercice des libert\u00E9s publiques; 
+		\n 2. le r\u00E9gime \u00E9lectoral; 
+		\n 3. les finances publiques; \n 4. les suj\u00E9tions impos\u00E9es par la d\u00E9fense nationale aux citoyens en leur personne et en leurs biens; 
+		\n 5. la nationalit\u00E9, l\'\u00E9tat et la capacit\u00E9 des personnes, les r\u00E9gimes matrimoniaux, les successions et les lib\u00E9ralit\u00E9s;
+		\n 6. la d\u00E9termination des infractions et des peines qui leur sont applicables, la proc\u00E9dure p\u00E9nale, l\'organisation et le fonctionnement du pouvoir judiciaire, la cr\u00E9ation de nouveaux ordres de juridictions, le statut des magistrats, le r\u00E9gime juridique du Conseil sup\u00E9rieur de la magistrature;
+		\n 7. l\'organisation du Barreau, l\'assistance judiciaire et la repr\u00E9sentation en justice;
+		\n 8. le commerce, le r\u00E9gime de la propri\u00E9t\u00E9 des droits et des obligations civiles et commerciales; 
+		\n 9.  l\'amnistie et l\'extradition; 
+		\n 10. l\'assiette, le taux et les modalit\u00E9s de recouvrement des impositions de toute nature, le r\u00E9gime d\'\u00E9mission de la monnaie; 
+		\n 11. les emprunts et engagements financiers de l\'Etat; 
+		\n 12. les statuts des agents de carri\u00E8re des services publics de l\'Etat, du personnel de l\'enseignement sup\u00E9rieur, universitaire et de la recherche scientifique; \n 13. les Forces arm\u00E9es, la Police et les services de s\u00E9curit\u00E9; 
+		\n 14. le droit du travail et de la s\u00E9curit\u00E9 sociale; \n 15. l\'organisation g\u00E9n\u00E9rale de la d\u00E9fense et de la Police nationale, le mode de recrutement des membres des Forces arm\u00E9es et de la Police nationale, l\'avancement, les droits et obligations des militaires et des personnels de la police.
+	</string>
+	<string name="Article_123">
+		Sans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, la loi d\u00E9termine les principes fondamentaux concernant: 
+		\n 1. la libre administration des provinces et des entit\u00E9s territoriales d\u00E9centralis\u00E9es, de leurs comp\u00E9tences et de leurs ressources; 
+		\n 2. la cr\u00E9ation des entreprises, \u00E9tablissements et organismes publics; 
+		\n 3. le r\u00E9gime foncier, minier, forestier et immobilier; \n 4. la mutualit\u00E9 et l\'\u00E9pargne; 
+		\n 5. l\'enseignement et la sant\u00E9;
+		\n 6. le r\u00E9gime p\u00E9nitentiaire; 
+		\n 7. le pluralisme politique et syndical; 
+		\n 8. le droit de gr\u00E8ve; \n 9. l\'organisation des m\u00E9dias ; 
+		\n 10. la recherche scientifique et technologique; \n 11. la coop\u00E9rative; 
+		\n 12. la culture et les arts; 
+		\n 13. les sports et les loisirs; \n 14. l\'agriculture, l\'\u00E9levage, la p\u00EAche et l\'aquaculture; \n 15. la protection de l\'environnement et le tourisme; 
+		\n 16. la protection des groupes vuln\u00E9rables.
+	</string>
+	<string name="Article_124">
+		Les lois auxquelles la Constitution conf\u00E8re le caract\u00E8re de loi organique, sont vot\u00E9es et modifi\u00E9es \u00E0 la majorit\u00E9 absolue des membres composant chaque Chambre dans les conditions suivantes: 
+		\n 1. la proposition de loi n\'est soumise \u00E0 la d\u00E9lib\u00E9ration et au vote de la premi\u00E8re Chambre saisie qu\'\u00E0 l\'expiration d\'un d\u00E9lai de quinze jours apr\u00E8s son d\u00E9p\u00F4t au Gouvernement;
+		\n 2. la proc\u00E9dure de l\'article 132 est applicable. Toutefois, faute d\'accord entre les deux Chambres, le texte ne peut \u00EAtre adopt\u00E9 par l\'Assembl\u00E9e nationale en derni\u00E8re lecture qu\'\u00E0 la majorit\u00E9 absolue de ses membres; 
+		\n 3. les lois organiques ne peuvent \u00EAtre promulgu\u00E9es qu\'apr\u00E8s d\u00E9claration par la Cour constitutionnelle obligatoirement saisie par le Pr\u00E9sident de la R\u00E9publique, de leur conformit\u00E9 \u00E0 la Constitution dans un d\u00E9lai de quinze jours.
+	</string>
+	<string name="Article_125">
+		Si un projet ou une proposition de loi est d\u00E9clar\u00E9 urgent par le Gouvernement, il est examin\u00E9 par priorit\u00E9 dans chaque Chambre par la commission comp\u00E9tente suivant la proc\u00E9dure pr\u00E9vue par le R\u00E8glement int\u00E9rieur de chacune d\'elles.
+		\nLa proc\u00E9dure normale est appliqu\u00E9e aux propositions ou aux projets de loi portant amendement de la Constitution ou modifiant les lois organiques ainsi qu\'aux projets de loi d\'habilitation pr\u00E9vue \u00E0 l\'article 129.
+	</string>
+	<string name="Article_126">
+		Les Lois de finances d\u00E9terminent les ressources et les charges de l\'Etat. L\'Assembl\u00E9e nationale et le S\u00E9nat votent les projets de lois de finances dans les conditions pr\u00E9vues pour la loi organique vis\u00E9e \u00E0 l\'article 124 de la Constitution. 
+		\nLe projet de loi de finances de l\'ann\u00E9e, qui comprend notamment le budget, est d\u00E9pos\u00E9 par le Gouvernement sur le Bureau de l\'Assembl\u00E9e Nationale au plus tard le quinze septembre de chaque ann\u00E9e.
+		\nLes cr\u00E9ations et transformations d\'emplois publics ne peuvent \u00EAtre op\u00E9r\u00E9es hors les pr\u00E9visions des lois de finances. 
+		\nSi le projet de loi de finances, d\u00E9pos\u00E9 dans les d\u00E9lais constitutionnels, n\'est pas vot\u00E9 avant l\'ouverture du nouvel exercice, il est mis en vigueur par le Pr\u00E9sident de la R\u00E9publique, sur proposition du Gouvernement d\u00E9lib\u00E9r\u00E9e en Conseil des ministres, compte tenu des amendements vot\u00E9s par chacune d\u00E8s deux Chambres. 
+		\nSi le projet de loi de finances n\'a pas \u00E9t\u00E9 d\u00E9pos\u00E9 en temps utile pour \u00EAtre promulgu\u00E9 avant le d\u00E9but de l\'exercice, le Gouvernement demande \u00E0 l\'Assembl\u00E9e nationale et au S\u00E9nat l\'ouverture de cr\u00E9dits provisoires. 
+		\nSi, quinze jours avant la fin de la session budg\u00E9taire, le Gouvernement n\'a pas d\u00E9pos\u00E9 son projet de budget, il est r\u00E9put\u00E9 d\u00E9missionnaire. 
+		\nDans le cas o\u00F9 l\'Assembl\u00E9e nationale et le S\u00E9nat ne se prononcent pas dans les quinze jours sur l\'ouverture des cr\u00E9dits provisoires, les dispositions du projet pr\u00E9voyant ces cr\u00E9dits sont mises en vigueur par le Pr\u00E9sident de la R\u00E9publique sur proposition du Gouvernement d\u00E9lib\u00E9r\u00E9e en Conseil des ministres. 
+		\nSi, compte tenu de la proc\u00E9dure ci-dessus pr\u00E9vue, la loi de finances de l\'ann\u00E9e n\'a pu \u00EAtre mise en vigueur au premier jour du mois de f\u00E9vrier de l\'exercice budg\u00E9taire, le Pr\u00E9sident de la R\u00E9publique, sur proposition du Gouvernement d\u00E9lib\u00E9r\u00E9e en Conseil des ministres, met en ex\u00E9cution le projet de loi de finances, compte tenu des amendements vot\u00E9s par chacune des deux Chambres.
+	</string>
+	<string name="Article_127">
+		Les amendements au projet de loi de finances ne sont pas recevables lorsque leur adoption a pour cons\u00E9quence, soit une diminution des recettes, soit un accroissement des d\u00E9penses, \u00E0 moins qu\'ils ne soient assortis de propositions compensatoires.
+	</string>
+	<string name="Article_128">
+		Les mati\u00E8res autres que celles qui sont du domaine de la loi ont un caract\u00E8re r\u00E9glementaire.
+		\nLes textes \u00E0 caract\u00E8re de loi intervenus en ces mati\u00E8res peuvent \u00EAtre modifi\u00E9s par d\u00E9cret si la Cour constitutionnelle, \u00E0 la demande du Gouvernement, a d\u00E9clar\u00E9 qu\'ils ont un caract\u00E8re r\u00E9glementaire en vertu de l\'alin\u00E9a pr\u00E9c\u00E9dent.
+	</string>
+	<string name="Article_129">
+		Le Gouvernement peut, pour l\'ex\u00E9cution urgente de son programme d\'action, demander \u00E0 l\'Assembl\u00E9e nationale ou au S\u00E9nat l\'autorisation de prendre, par ordonnances-lois, pendant un d\u00E9lai limit\u00E9 et sur des mati\u00E8res d\u00E9termin\u00E9es, des mesures qui sont normalement du domaine de la loi. \nCes ordonnances-lois sont d\u00E9lib\u00E9r\u00E9es en Conseil des ministres. Elles entrent en vigueur d\u00E8s leur publication et deviennent caduques si le projet de loi de ratification n\'est pas d\u00E9pos\u00E9 devant le Parlement au plus tard \u00E0 la date limite fix\u00E9e par la loi d\'habilitation. 
+		\nA l\'expiration du d\u00E9lai vis\u00E9 \u00E0 l\'alin\u00E9a premier du pr\u00E9sent article, si le Parlement ne ratifie pas ces ordonnances-lois, celles-ci cessent de plein droit de produire leurs effets.
+		\nLes ordonnances-lois d\u00E9lib\u00E9r\u00E9es en Conseil des ministres et ratifi\u00E9es ne peuvent \u00EAtre modifi\u00E9es dans leurs dispositions que par la loi. 
+		\nLes ordonnances-lois cessent de plein droit de produire leurs effets en cas de rejet du projet de loi de ratification.
+	</string>
+	<string name="Article_130">
+		L\'initiative des lois appartient concurremment au Gouvernement, \u00E0 chaque d\u00E9put\u00E9 et \u00E0 chaque s\u00E9nateur.
+		\nLes projets de loi adopt\u00E9s par le Gouvernement en Conseil des ministres sont d\u00E9pos\u00E9s sur le Bureau de l\'une des Chambres. Toutefois, s\'agissant de la loi de finances, le projet est imp\u00E9rativement d\u00E9pos\u00E9 dans les d\u00E9lais pr\u00E9vus \u00E0 l\'article 126 sur le Bureau de l\'Assembl\u00E9e nationale. 
+		\nLes propositions de loi sont, avant d\u00E9lib\u00E9ration et adoption, notifi\u00E9es pour information au Gouvernement qui adresse, dans les quinze jours suivant leur transmission, ses observations \u00E9ventuelles au Bureau de l\'une ou l\'autre Chambre. Pass\u00E9 ce d\u00E9lai, ces propositions de loi sont mises en d\u00E9lib\u00E9ration.
+	</string>
+	<string name="Article_131">
+		Les membres du Gouvernement ont acc\u00E8s aux travaux de l\'Assembl\u00E9e nationale et du S\u00E9nat ainsi qu\'\u00E0 ceux de leurs commissions. 
+		\nS\'ils en sont requis, les membres du Gouvernement ont l\'obligation d\'assister aux s\u00E9ances de l\'Assembl\u00E9e nationale et \u00E0 celles du S\u00E9nat, d\'y prendre la parole et de fournir aux parlementaires toutes les explications qui leur sont demand\u00E9es sur leurs activit\u00E9s.
+	</string>
+	<string name="Article_132">
+		La discussion des projets de loi porte, devant la premi\u00E8re Chambre saisie, sur le texte d\u00E9pos\u00E9 par le Gouvernement. Une Chambre saisie d\'un texte d\u00E9j\u00E0 vot\u00E9 par l\'autre Chambre ne d\u00E9lib\u00E8re que sur le texte qui lui est transmis.
+	</string>
+	<string name="Article_133">
+		Les membres du Gouvernement ont le droit de proposer des amendements aux textes en discussion mais ne participent pas au vote.
+	</string>
+	<string name="Article_134">
+		Les propositions de loi et les amendements formul\u00E9s par les membres de l\'Assembl\u00E9e nationale ou du S\u00E9nat ne sont pas recevables lorsque leur adoption aurait pour cons\u00E9quence soit une diminution des ressources publiques, soit la cr\u00E9ation ou l\'aggravation d\'une charge publique, \u00E0 moins qu\'ils ne soient assortis de propositions d\u00E9gageant les recettes ou les \u00E9conomies correspondantes.
+	</string>
+	<string name="Article_135">
+		Tout projet ou toute proposition de loi est examin\u00E9 successivement par les deux Chambres en vue de l\'adoption d\'un texte identique. 
+		\nLorsque, par suite d\'un d\u00E9saccord entre les deux Chambres, un projet ou une proposition de Ici n\'a pu \u00EAtre adopt\u00E9 apr\u00E8s une lecture par chaque Chambre, une commission mixte paritaire charg\u00E9e de proposer un texte sur les dispositions restant en discussion est mise en place par les deux Bureaux. \nLe texte \u00E9labor\u00E9 par la Commission mixte paritaire est soumis pour adoption aux deux Chambres. \nSi la Commission mixte paritaire ne parvient pas \u00E0 l\'adoption d\'un texte unique ou si ce texte n\'est pas approuv\u00E9 dans les conditions pr\u00E9vues \u00E0 l\'alin\u00E9a pr\u00E9c\u00E9dent, l\'Assembl\u00E9e nationale statue d\u00E9finitivement. En ce cas, l\'Assembl\u00E9e nationale peut reprendre soit le texte \u00E9labor\u00E9 par la Commission mixte paritaire, soit le dernier texte vot\u00E9 par elle, modifi\u00E9, le cas \u00E9ch\u00E9ant, par un ou plusieurs des amendements adopt\u00E9s par le S\u00E9nat.
+	</string>
+	<string name="Article_136">
+		Dans les six jours de son adoption, la loi est transmise au Pr\u00E9sident de la R\u00E9publique pour sa promulgation. Le Premier ministre en re\u00E7oit ampliation.
+	</string>
+	<string name="Article_137">
+		Dans un d\u00E9lai de quinze jours de 13 transmission, le Pr\u00E9sident de la R\u00E9publique peut demander \u00E0 l\'Assembl\u00E9e nationale ou au S\u00E9nat une nouvelle d\u00E9lib\u00E9ration de la loi ou de certains de ses articles. Cette nouvelle d\u00E9lib\u00E9ration ne peut \u00EAtre refus\u00E9e. \nLe texte soumis \u00E0 une seconde d\u00E9lib\u00E9ration est adopt\u00E9 par l\'Assembl\u00E9e nationale et le S\u00E9nat soit sous la forme initiale, soit apr\u00E8s modification \u00E0 la majorit\u00E9 absolue des membres qui les composent.
+	</string>
+	<string name="Article_138">
+		Sans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, les moyens d\'information et de contr\u00F4le de l\'Assembl\u00E9e nationale ou du S\u00E9nat, sur le Gouvernement, les entreprises publiques, les \u00E9tablissements et services publics sont: 
+		\n 1. la question orale ou \u00E9crite avec ou sans d\u00E9bat non suivi de vote; \n 2. la question d\'actualit\u00E9; 
+		\n 3. l\'interpellation; 
+		\n 4. la commission d\'enqu\u00EAte; 
+		\n 5. l\'audition par les Commissions. 
+		\nCes moyens de contr\u00F4le s\'exercent dans les conditions d\u00E9termin\u00E9es par le R\u00E8glement int\u00E9rieur de chacune des Chambres et donnent lieu, le cas \u00E9ch\u00E9ant, \u00E0 la motion de d\u00E9fiance ou de censure, conform\u00E9ment aux articles 146 et 147 de la pr\u00E9sente Constitution.
+	</string>
+	<string name="Article_139">
+		La Cour constitutionnelle peut \u00EAtre saisie d\'un recours visant \u00E0 faire d\u00E9clarer une loi \u00E0 promulguer non conforme \u00E0 la Constitution par:
+		\n 1. le Pr\u00E9sident de la R\u00E9publique dans les quinze jours qui suivent la transmission \u00E0 lui faite de la loi d\u00E9finitivement adopt\u00E9e; 
+		\n 2. le Premier ministre dans les quinze jours qui suivent la transmission \u00E0 lui faite de la loi d\u00E9finitivement adopt\u00E9e;
+		\n 3. le Pr\u00E9sident de l\'Assembl\u00E9e nationale ou le Pr\u00E9sident du S\u00E9nat dans les quinze jours qui suivent son adoption d\u00E9finitive; 
+		\n 4. un nombre de d\u00E9put\u00E9s ou de s\u00E9nateurs au moins \u00E9gal au dixi\u00E8me des membres de chacune des Chambres, dans les quinze jours qui suivent son adoption d\u00E9finitive.
+		\nLa loi ne peut \u00EAtre promulgu\u00E9e que si elle a \u00E9t\u00E9 d\u00E9clar\u00E9e conforme \u00E0 la Constitution par la Cour constitutionnelle qui se prononce dans les trente jours de sa saisine. Toutefois, \u00E0 la demande du Gouvernement, s\'il y a urgence, ce d\u00E9lai est ramen\u00E9 \u00E0 huit jours. Pass\u00E9 ces d\u00E9lais, la loi est r\u00E9put\u00E9e conforme \u00E0 la Constitution.
+	</string>
+	<string name="Article_140">
+		Le Pr\u00E9sident de la R\u00E9publique promulgue la loi dans les quinze jours de sa transmission apr\u00E8s l\'expiration des d\u00E9lais pr\u00E9vus par les articles 136 et 137 de la Constitution. \nA d\u00E9faut de promulgation de la loi par le Pr\u00E9sident de la R\u00E9publique dans les d\u00E9lais constitutionnels, la promulgation est de droit.
+	</string>
+	<string name="Article_141">
+		Les lois sont rev\u00EAtues du sceau de l\'Etat et publi\u00E9es au Journal officiel.
+	</string>
+	<string name="Article_142">
+		La loi entre en vigueur trente jours apr\u00E8s sa publication au journal officiel \u00E0 moins qu\'elle n\'en dispose autrement. 
+		\nDans tous les cas, le Gouvernement assure la diffusion en fran\u00E7ais et dans chacune des quatre langues nationales dans le d\u00E9lai de soixante jours \u00E0 dater de la promulgation.
+	</string>
+	<string name="Article_143">
+		Conform\u00E9ment aux dispositions de l\'article 86 de la Constitution, le Pr\u00E9sident de la R\u00E9publique d\u00E9clare la guerre sur d\u00E9cision du Conseil des ministres apr\u00E8s avis du Conseil sup\u00E9rieur de la d\u00E9fense et autorisation de deux Chambres  Il en informe la Nation par un message. 
+		\nLes droits et devoirs des citoyens, pendant la guerre ou en cas d\'invasion ou d\'attaque du territoire national par des forces de l\'ext\u00E9rieur, font l\'objet d\'une loi.
+	</string>
+	<string name="Article_144">
+		En application des dispositions de l\'article 85 de la pr\u00E9sente Constitution, l\'\u00E9tat de si\u00E8ge, comme l\'\u00E9tat d\'urgence, est d\u00E9clar\u00E9 par le Pr\u00E9sident de la R\u00E9publique. \nL\'Assembl\u00E9e nationale et le S\u00E9nat se r\u00E9unissent alors de plein droit. S\'ils ne sont pas en session, une session extraordinaire est convoqu\u00E9e \u00E0 cet effet conform\u00E9ment \u00E0 l\'article 116 de la pr\u00E9sente Constitution. \nLa cl\u00F4ture des sessions ordinaires ou extraordinaires est de droit retard\u00E9e pour permettre, le cas \u00E9ch\u00E9ant, l\'application des dispositions de l\'alin\u00E9a pr\u00E9c\u00E9dent. \nL\'\u00E9tat d\'urgence ou l\'\u00E9tat de si\u00E8ge peut \u00EAtre proclam\u00E9 sur tout ou partie du territoire de la R\u00E9publique pour une dur\u00E9e de trente jours. \nL\'ordonnance proclamant l\'\u00E9tat d\'urgence ou l\'\u00E9tat de si\u00E8ge cesse de plein droit de produire ses effets apr\u00E8s l\'expiration du d\u00E9lai pr\u00E9vu \u00E0 l\'alin\u00E9a trois du pr\u00E9sent article, \u00E0 moins que l\'Assembl\u00E9e nationale et le S\u00E9nat, saisis par le Pr\u00E9sident de la R\u00E9publique sur d\u00E9cision du Conseil des ministres, n\'en aient autoris\u00E9 la prorogation pour des p\u00E9riodes successives de quinze jours. \nL\'Assembl\u00E9e nationale et le S\u00E9nat peuvent, par une loi, mettre fin \u00E0 tout moment \u00E0 l\'\u00E9tat d\'urgence ou \u00E0 l\'\u00E9tat de si\u00E8ge.
+	</string>
+	<string name="Article_145">
+		En cas d\'\u00E9tat d\'urgence Ou d\'\u00E9tat de si\u00E8ge, le Pr\u00E9sident de la R\u00E9publique prend, par ordonnances d\u00E9lib\u00E9r\u00E9es en Conseil des ministres, les mesures n\u00E9cessaires pour faire face \u00E0 la situation. 
+		\nCes ordonnances sont, d\u00E8s leur signature, soumises \u00E0 la Cour constitutionnelle qui, toutes affaires cessantes, d\u00E9clare si elles d\u00E9rogent ou non \u00E0 la pr\u00E9sente Constitution.
+	</string>
+	<string name="Article_146">
+		Le Premier ministre peut, apr\u00E8s d\u00E9lib\u00E9ration du Conseil des ministres, engager devant l\'Assembl\u00E9e nationale la responsabilit\u00E9 du Gouvernement sur son programme, sur une d\u00E9claration de politique g\u00E9n\u00E9rale ou sur le vote d\'un texte. \nL\'Assembl\u00E9e nationale met en cause la responsabilit\u00E9 du Gouvernement ou d\'un membre du Gouvernement par le vote d\'une motion de censure ou de d\u00E9fiance. La motion de censure contre le Gouvernement n\'est recevable que si elle est sign\u00E9e par un quart des membres de l\'Assembl\u00E9e nationale. La motion de d\u00E9fiance contre un membre du Gouvernement n\'est recevable que si elle est sign\u00E9e par un dixi\u00E8me des membres de l\'Assembl\u00E9e nationale. 
+		\nLe d\u00E9bat et le vote ne peuvent avoir lieu que quarante huit heures apr\u00E8s le d\u00E9p\u00F4t de la motion. 
+		\nSeuls sont recens\u00E9s les votes favorables \u00E0 la motion de censure ou de d\u00E9fiance qui ne peut \u00EAtre adopt\u00E9e qu\'\u00E0 la majorit\u00E9 absolue des membres composant l\'Assembl\u00E9e nationale. Si la motion de censure ou de d\u00E9fiance est rejet\u00E9e, ses signataires ne peuvent en proposer une nouvelle au cours de la m\u00EAme session.
+		\nLe programme, la d\u00E9claration de politique g\u00E9n\u00E9rale ou le texte vis\u00E9 \u00E0 l\'alin\u00E9a 1er est consid\u00E9r\u00E9 comme adopt\u00E9 sauf si une motion de censure est vot\u00E9e dans les conditions pr\u00E9vues aux alin\u00E9as 2 et 3 du pr\u00E9sent article.
+		\nLe Premier ministre a la facult\u00E9 de demander au S\u00E9nat l\'approbation d\'une d\u00E9claration de politique g\u00E9n\u00E9rale.
+	</string>
+	<string name="Article_147">
+		Lorsque l\'Assembl\u00E9e nationale adopte une motion de censure, le Gouvernement est r\u00E9put\u00E9 d\u00E9missionnaire. Dans ce cas, le Premier ministre remet la d\u00E9mission du Gouvernement au Pr\u00E9sident de la R\u00E9publique dans les vingt quatre heures. \nLorsqu\'une motion de d\u00E9fiance contre un membre du Gouvernement est adopt\u00E9e, celui-ci est r\u00E9put\u00E9 d\u00E9missionnaire.
+	</string>
+	<string name="Article_148">
+		En cas de crise persistante entre le Gouvernement et l\'Assembl\u00E9e nationale, le Pr\u00E9sident de la R\u00E9publique peut, apr\u00E8s consultation du Premier ministre et des Pr\u00E9sidents de l\'Assembl\u00E9e nationale et du S\u00E9nat, prononcer la dissolution de l\'Assembl\u00E9e nationale. \nAucune dissolution ne peut intervenir dans l\'ann\u00E9e qui suit les \u00E9lections, ni pendant les p\u00E9riodes de l\'\u00E9tat d\'urgence ou de si\u00E8ge ou de guerre, ni pendant que la R\u00E9publique est dirig\u00E9e par un Pr\u00E9sident int\u00E9rimaire. 
+		\nA la suite d\'une dissolution de l\'Assembl\u00E9e nationale, la Commission \u00E9lectorale nationale ind\u00E9pendante convoque les \u00E9lecteurs en vue de l\'\u00E9lection, dans le d\u00E9lai de soixante jours suivant la date de publication de l\'ordonnance de dissolution, d\'une nouvelle 
+	</string>
+	<string name="Article_149">
+		Le pouvoir judiciaire est ind\u00E9pendant du pouvoir l\u00E9gislatif et du pouvoir ex\u00E9cutif. 
+		\nIl est d\u00E9volu aux Cours et Tribunaux qui sont: la Cour constitutionnelle, la Cour de cassation, le Conseil d\'Etat, la Haute Cour militaire, les cours et tribunaux civils et militaires ainsi que les parquets rattach\u00E9s \u00E0 ces juridictions.
+		\nLa justice est rendue sur l\'ensemble du territoire national au nom du peuple. \nLes arr\u00EAts et les jugements ainsi que les ordonnances des Cours et tribunaux sont ex\u00E9cut\u00E9s au nom du Pr\u00E9sident de la R\u00E9publique. 
+		\nIl ne peut \u00EAtre cr\u00E9\u00E9 des Tribunaux extraordinaires ou d\'exception sous quelque d\u00E9nomination que ce soit. 
+		\nLa loi peut cr\u00E9er des juridictions sp\u00E9cialis\u00E9es.
+		\nLe pouvoir judiciaire dispose d\'un budget \u00E9labor\u00E9 par le Conseil sup\u00E9rieur de la magistrature et transmis au Gouvernement pour \u00EAtre inscrit dans le budget g\u00E9n\u00E9ral de l\'Etat. Le Premier Pr\u00E9sident de la Cour de cassation en est l\u2019ordonnateur. Il est assist\u00E9 par le Secr\u00E9tariat permanent du Conseil sup\u00E9rieur de la magistrature.
+	</string>
+	<string name="Article_150">
+		Le pouvoir judiciaire est le garant des libert\u00E9s individuelles et des droits fondamentaux des citoyens. \nLes juges ne sont soumis dans l\'exercice de leur fonction qu\'\u00E0 l\'autorit\u00E9 de la loi. Une loi organique fixe le statut des magistrats. 
+		\nLe magistrat du si\u00E8ge est inamovible. Il ne peut \u00EAtre d\u00E9plac\u00E9 que par une nomination nouvelle ou \u00E0 sa demande ou par rotation motiv\u00E9e d\u00E9cid\u00E9e par le Conseil sup\u00E9rieur de la magistrature.
+	</string>
+	<string name="Article_151">
+		Le pouvoir ex\u00E9cutif ne peut donner d\'injonction au juge dans l\'exercice de sa juridiction, ni statuer sur les diff\u00E9rends, ni entraver le cours de la justice, ni s\'opposer \u00E0 l\'ex\u00E9cution d\'une d\u00E9cision de justice.
+		\nLe pouvoir l\u00E9gislatif ne peut ni statuer sur des diff\u00E9rends juridictionnels, ni modifier une d\u00E9cision de justice, ni s\'opposer \u00E0 son ex\u00E9cution. 
+		\nToute loi dont l\'objectif est manifestement de fournir une solution \u00E0 un proc\u00E8s en cours est nulle et de nul effet.
+	</string>
+	<string name="Article_152">
+		Le Conseil sup\u00E9rieur de la magistrature est l\'organe de gestion du pouvoir judiciaire.
+		\nLe Conseil sup\u00E9rieur de la magistrature est compos\u00E9 de: 
+		\n 1. Pr\u00E9sident de la Cour constitutionnelle; 
+		\n 2. Procureur g\u00E9n\u00E9ral pr\u00E8s la Cour constitutionnelle;
+		\n 3. Premier Pr\u00E9sident de la Cour de cassation; 
+		\n 4. Procureur g\u00E9n\u00E9ral pr\u00E8s la Cour de cassation; 
+		\n 5. Premier Pr\u00E9sident du Conseil d\'Etat; 
+		\n 6. Procureur g\u00E9n\u00E9ral pr\u00E8s le Conseil d\'Etat; 
+		\n 7. Premier Pr\u00E9sident de la Haute Cour militaire; 
+		\n 8. Auditeur g\u00E9n\u00E9ral pr\u00E8s la Haute Cour militaire; 
+		\n 9. Premiers Pr\u00E9sidents des Cours d\'Appel; 
+		\n 10. Procureurs G\u00E9n\u00E9raux pr\u00E8s les Cours d\'Appel; 
+		\n 11. Premiers Pr\u00E9sidents des Cours administratives d\'Appel; 
+		\n 12. Procureurs G\u00E9n\u00E9raux pr\u00E8s les Cours administratives d\'Appel; 
+		\n 13. Premiers Pr\u00E9sidents des Cours militaires; 
+		\n 14. Auditeurs militaires sup\u00E9rieurs; 
+		\n 15. deux magistrats de si\u00E8ge par ressort de Cour d\'Appel, \u00E9lus par l\'ensemble des magistrats du ressort pour un mandat de trois ans; 
+		\n 16. deux magistrats du parquet par ressort de Cour d\'Appel, \u00E9lus par l\'ensemble des magistrats du ressort pour un mandat de trois ans; 
+		\n 17. un magistrat de si\u00E8ge par ressort de Cour militaire; 
+		\n 18. un magistrat de parquet par ressort de Cour militaire. 
+		\nIl \u00E9labore les propositions de nomination, de promotion et de r\u00E9vocation des magistrats. 
+		\nIl exerce le pouvoir disciplinaire sur les magistrats. Il donne ses avis en mati\u00E8re de recours en gr\u00E2ce.
+		\nUne loi organique d\u00E9termine l\'organisation et le fonctionnement du Conseil sup\u00E9rieur de la magistrature.
+	</string>
+	<string name="Article_153">
+		Il est institu\u00E9 un ordre de juridictions judiciaires, compos\u00E9 des cours et tribunaux civils et militaires plac\u00E9s sous le contr\u00F4le de la Cour de cassation.
+		\nSans pr\u00E9judice des autres comp\u00E9tences qui lui sont reconnues par la pr\u00E9sente Constitution ou par les lois de la R\u00E9publique, la Cour de cassation conna\u00EEt des pourvois en cassation form\u00E9s contre les arr\u00EAts et jugements rendus en dernier ressort par les cours et tribunaux civils et militaires. 
+		\nDans les conditions fix\u00E9es par la Constitution et les lois de la R\u00E9publique, la Cour de cassation conna\u00EEt en premier et dernier ressort des infractions commises par: 
+		\n 1. les membres de l\'Assembl\u00E9e nationale et du S\u00E9nat; 
+		\n 2. les membres du Gouvernement autres que le Premier ministre; 
+		\n 3. les membres de la Cour constitutionnelle; 
+		\n 4. les magistrats de la Cour de cassation ainsi que du parquet pr\u00E8s cette Cour; 
+		\n 5. les membres du Conseil d\'Etat et les membres du Parquet pr\u00E8s ce Conseil; 
+		\n 6. les membres de la Cour des Comptes et les membres du parquet pr\u00E8s cette Cour; 
+		\n 7. les Premiers Pr\u00E9sidents des Cours d\'appel ainsi que les Procureurs g\u00E9n\u00E9raux pr\u00E8s ces cours; 
+		\n 8. les Premiers Pr\u00E9sidents des Cours administratives d\'appel et les Procureurs pr\u00E8s ces cours; 
+		\n 9. les Gouverneurs, les Vice-gouverneurs de province et les ministres provinciaux; 
+		\n 10. les Pr\u00E9sidents des Assembl\u00E9es provinciales. 
+		\nLes Cours et Tribunaux, civils et militaires, appliquent les trait\u00E9s internationaux d\u00FBment ratifi\u00E9s, les lois, les actes r\u00E9glementaires pour autant. qu\'ils soient conformes aux lois ainsi que la coutume pour autant que celle-ci ne soit pas contraire \u00E0 l\'ordre public ou aux bonnes m\u0153urs. 
+		\nL\'organisation, le fonctionnement et les comp\u00E9tences des juridictions de l\'ordre judiciaire sont d\u00E9termin\u00E9s par une loi organique.
+	</string>
+	<string name="Article_154">
+		Il est institu\u00E9 un ordre de juridictions administratives compos\u00E9 du Conseil d\'Etat et des Cours et Tribunaux administratifs.
+	</string>
+	<string name="Article_155">
+		Sans pr\u00E9judice des autres comp\u00E9tences que lui reconna\u00EEt la Constitution ou la loi, le Conseil d\'Etat conna\u00EEt, en premier et dernier ressort, des recours pour violation de la loi, form\u00E9s contre les actes, r\u00E8glements et d\u00E9cisions des autorit\u00E9s administratives centrales. 
+		\nIl conna\u00EEt en appel des recours contre les d\u00E9cisions des Cours administratives d\'appel.
+		\nIl conna\u00EEt, dans les cas o\u00F9 il n\'existe pas d\'autres juridictions comp\u00E9tentes, de demandes d\'indemnit\u00E9s relatives \u00E0 la r\u00E9paration d\'un dommage exceptionnel, mat\u00E9riel ou moral r\u00E9sultant d\'une mesure prise ou ordonn\u00E9e par les autorit\u00E9s de la R\u00E9publique. Il se prononce en \u00E9quit\u00E9 en tenant compte de toutes les circonstances d\'int\u00E9r\u00EAt public ou priv\u00E9. 
+		\nL\'organisation, la comp\u00E9tence et le fonctionnement des juridictions de l\'ordre administratif sont fix\u00E9s par une loi organique.
+	</string>
+	<string name="Article_156">
+		Les juridictions militaires connaissent des infractions commises par les membres des Forces arm\u00E9es et de la Police nationale. 
+		\nEn temps de guerre ou lorsque l\'\u00E9tat de si\u00E8ge ou d\'urgence est proclam\u00E9, le Pr\u00E9sident de la R\u00E9publique, par une d\u00E9cision d\u00E9lib\u00E9r\u00E9e en Conseil des ministres, peut suspendre sur tout ou partie de la R\u00E9publique et pour la dur\u00E9e et les infractions qu\'il fixe, l\'action r\u00E9pressive des Cours et Tribunaux de droit commun au profit de celle des juridictions militaires. Cependant, le droit d\'appel ne peut \u00EAtre suspendu. 
+		\nUne loi organique fixe les r\u00E8gles de comp\u00E9tence, d\'organisation et de fonctionnement des juridictions militaires.
+	</string>
+	<string name="Article_157">
+		Il est institu\u00E9 une Cour constitutionnelle.
+	</string>
+	<string name="Article_158">
+		La Cour constitutionnelle comprend neuf membres nomm\u00E9s par le Pr\u00E9sident de la R\u00E9publique dont trois sur sa propre initiative, trois d\u00E9sign\u00E9s par le Parlement r\u00E9uni en Congr\u00E8s et trois d\u00E9sign\u00E9s par le Conseil sup\u00E9rieur de la magistrature. 
+		\nLes deux tiers des membres de la Cour Constitutionnelle doivent \u00EAtre des juristes provenant de la magistrature, du barreau ou de l\'enseignement universitaire. 
+		\nLe mandat des membres de la Cour constitutionnelle est de neuf ans non renouvelable. 
+		\nLa Cour constitutionnelle est renouvel\u00E9e par tiers tous les trois ans. Toutefois, lors de chaque renouvellement, il sera proc\u00E9d\u00E9 au tirage au sort d\'un membre par groupe. 
+		\nLe Pr\u00E9sident de la Cour constitutionnelle est \u00E9lu par ses pairs pour une dur\u00E9e de trois ans renouvelable une seule fois. Il est investi par ordonnance du Pr\u00E9sident de la R\u00E9publique.
+	</string>
+	<string name="Article_159">
+		Nul ne peut \u00EAtre nomm\u00E9 membre de la Cour constitutionnelle: 
+		\n 1. s\'il n\'est congolais
+		\n 2. s\'il ne justifie d\'une exp\u00E9rience \u00E9prouv\u00E9e de quinze ans dans les domaines juridique ou politique.
+	</string>
+	<string name="Article_160">
+		La Cour constitutionnelle est charg\u00E9e du contr\u00F4le de la constitutionnalit\u00E9 des lois et des actes ayant force de loi. 
+		\nLes lois organiques, avant leur promulgation, et les R\u00E8glements int\u00E9rieurs des Chambres parlementaires et du Congr\u00E8s, de la Commission \u00E9lectorale nationale ind\u00E9pendante ainsi que du Conseil sup\u00E9rieur de l\'audiovisuel et de la communication, avant leur mise en application, doivent \u00EAtre soumis \u00E0 la Cour constitutionnelle qui se prononce sur leur conformit\u00E9 \u00E0 la Constitution.
+		\nAux m\u00EAmes fins d\'examen de la constitutionnalit\u00E9, les lois peuvent \u00EAtre d\u00E9f\u00E9r\u00E9es \u00E0 la Cour constitutionnelle, avant leur promulgation, par le Pr\u00E9sident de la R\u00E9publique, le Premier ministre, le Pr\u00E9sident de l\'Assembl\u00E9e nationale, le Pr\u00E9sident du S\u00E9nat ou le dixi\u00E8me des d\u00E9put\u00E9s ou des s\u00E9nateurs. 
+		\nLa Cour constitutionnelle statue dans le d\u00E9lai de trente jours. Toutefois, \u00E0 la demande du Gouvernement, s\'il y a urgence, ce d\u00E9lai est ramen\u00E9 \u00E0 huit jours.
+	</string>
+	<string name="Article_161">
+		La Cour constitutionnelle conna\u00EEt des recours en interpr\u00E9tation de la Constitution sur saisine du Pr\u00E9sident de la R\u00E9publique, du Gouvernement, du Pr\u00E9sident du S\u00E9nat, du Pr\u00E9sident de l\'Assembl\u00E9e nationale, d\'un dixi\u00E8me des membres de chacune des Chambres parlementaires, des Gouverneurs de province et des Pr\u00E9sidents des Assembl\u00E9es provinciales. 
+		\nElle juge du contentieux des \u00E9lections pr\u00E9sidentielles et l\u00E9gislatives ainsi que du r\u00E9f\u00E9rendum. 
+		\nElle conna\u00EEt des conflits de comp\u00E9tences entre le pouvoir ex\u00E9cutif et le pouvoir l\u00E9gislatif ainsi qu\'entre l\'Etat et les provinces. 
+		\nElle conna\u00EEt des recours contre les arr\u00EAts rendus par la Cour de cassation et le Conseil d\'Etat, uniquement en tant qu\'ils se prononcent sur l\'attribution du litige aux juridictions de l\'ordre judiciaire ou administratif. Ce recours n\'est recevable que si un d\u00E9clinatoire de juridiction a \u00E9t\u00E9 soulev\u00E9 par ou devant la Cour de cassation ou le Conseil d\'Etat. 
+		\nLes modalit\u00E9s et les effets des recours vis\u00E9s aux alin\u00E9as pr\u00E9c\u00E9dents sont d\u00E9termin\u00E9s par la loi.
+	</string>
+	<string name="Article_162">
+		La Cour constitutionnelle est juge de l\'exception d\'inconstitutionnalit\u00E9 soulev\u00E9e devant ou par une juridiction. 
+		\nToute personne peut saisir la Cour constitutionnelle pour inconstitutionnalit\u00E9 de tout acte l\u00E9gislatif ou r\u00E9glementaire. 
+		\nElle peut, en outre, saisir la Cour constitutionnelle, par la proc\u00E9dure de l\'exception de l\'inconstitutionnalit\u00E9 invoqu\u00E9e dans une affaire qui la concerne devant une juridiction. 
+		\nCelle-ci surseoit \u00E0 statuer et saisit, toutes affaires cessantes, la Cour constitutionnelle.
+	</string>
+	<string name="Article_163">
+		La Cour constitutionnelle est la juridiction p\u00E9nale du Chef de l\'Etat et du Premier ministre dans les cas et conditions pr\u00E9vus par la Constitution.
+	</string>
+	<string name="Article_164">
+		La Cour constitutionnelle est le juge p\u00E9nal du Pr\u00E9sident de la R\u00E9publique et du Premier ministre pour des infractions politiques de haute trahison, d\'outrage au Parlement, d\'atteinte \u00E0 l\'honneur ou \u00E0 la probit\u00E9 ainsi que pour les d\u00E9lits d\'initi\u00E9 et pour les autres infractions de droit commun commises dans l\'exercice ou \u00E0 l\'occasion de l\'exercice de leurs fonctions. Elle est \u00E9galement comp\u00E9tente pour juger leurs co-auteurs et complices.
+	</string>
+	<string name="Article_165">
+		Sans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, il y a haute trahison lorsque le Pr\u00E9sident de la R\u00E9publique a viol\u00E9 intentionnellement la Constitution ou lorsque lui ou le Premier ministre sont reconnus auteurs, co-auteurs ou complices de violations graves et caract\u00E9ris\u00E9es des Droits de l\'Homme, de cession d\'une partie du territoire national. 
+		\nIl y a atteinte \u00E0 l\'honneur ou \u00E0 la probit\u00E9 notamment lorsque le comportement personnel du Pr\u00E9sident de la R\u00E9publique ou du Premier ministre est contraire aux bonnes m\u0153urs ou qu\'ils sont reconnus auteurs, co-auteurs ou complices de malversations, de corruption ou d\'enrichissement illicite. 
+		\nIl y a d\u00E9lit d\'initi\u00E9 dans le chef du Pr\u00E9sident de la R\u00E9publique ou du Premier ministre lorsqu\'il effectue des op\u00E9rations sur valeurs immobili\u00E8res ou sur marchandises \u00E0 l\'\u00E9gard desquelles il poss\u00E8de des informations privil\u00E9gi\u00E9es et dont il tire profit avant que ces informations soient connues du public. Le d\u00E9lit d\'initi\u00E9 englobe l\'achat ou la vente d\'actions fond\u00E9s sur des renseignements qui ne seraient jamais divulgu\u00E9s aux actionnaires. 
+		\nIl y a outrage au Parlement lorsque sur des questions pos\u00E9es par l\'une ou l\'autre Chambre du Parlement sur l\'activit\u00E9 gouvernementale, le Premier ministre ne fournit aucune r\u00E9ponse dans un d\u00E9lai de trente jours.
+	</string>
+	<string name="Article_166">
+		La d\u00E9cision de poursuites ainsi que la mise en accusation du Pr\u00E9sident de la R\u00E9publique et du Premier ministre sont vot\u00E9es \u00E0 la majorit\u00E9 des deux tiers des membres du Parlement composant le Congr\u00E8s suivant la proc\u00E9dure pr\u00E9vue par le R\u00E8glement int\u00E9rieur. 
+		\nLa d\u00E9cision de poursuites ainsi que la mise en accusation des membres du Gouvernement sont vot\u00E9es \u00E0 la majorit\u00E9 absolue des membres composant l\'Assembl\u00E9e nationale suivant la proc\u00E9dure pr\u00E9vue par le R\u00E8glement int\u00E9rieur.
+		\nLes membres du Gouvernement mis en accusation, pr\u00E9sentent leur d\u00E9mission.
+	</string>
+	<string name="Article_167">
+		En cas de condamnation, le Pr\u00E9sident de la R\u00E9publique et le Premier ministre sont d\u00E9chus de leurs charges. La d\u00E9ch\u00E9ance est prononc\u00E9e par la Cour constitutionnelle. 
+		\nPour les infractions commises en dehors de l\'exercice de leurs fonctions, les poursuites contre le Pr\u00E9sident de la R\u00E9publique et le Premier ministre sont suspendues jusqu\'\u00E0 l\'expiration de leurs mandats. Pendant ce temps, la prescription est suspendue.
+	</string>
+	<string name="Article_168">
+		Les arr\u00EAts de la Cour constitutionnelle ne sont susceptibles d\'aucun recours et sont imm\u00E9diatement ex\u00E9cutoires. Ils sont obligatoires et s\'imposent aux pouvoirs publics, \u00E0 toutes les autorit\u00E9s administratives et juridictionnelles, civiles et militaires ainsi qu\'aux particuliers.
+		\nTout acte d\u00E9clar\u00E9 non conforme \u00E0 la Constitution est nul de plein droit.
+	</string>
+	<string name="Article_169">
+		L\'organisation et le fonctionnement de la Cour constitutionnelle sont fix\u00E9s par une loi organique.
+	</string>
+	<string name="Article_170">
+		Le Franc congolais est l\'unit\u00E9 mon\u00E9taire de la R\u00E9publique D\u00E9mocratique du Congo. Il a le pouvoir lib\u00E9ratoire sur tout le territoire national.
+	</string>
+	<string name="Article_171">
+		Les finances du pouvoir central et celles des provinces sont distinctes.
+	</string>
+	<string name="Article_172">
+		L\'exercice budg\u00E9taire commence le premier janvier et se termine le 31 d\u00E9cembre.
+	</string>
+	<string name="Article_173">
+		Le compte g\u00E9n\u00E9ral de la R\u00E9publique est soumis chaque ann\u00E9e au Parlement par la Cour des comptes avec ses observations.
+		\nLe compte g\u00E9n\u00E9ral de la R\u00E9publique est arr\u00EAt\u00E9 par la loi.
+	</string>
+	<string name="Article_174">
+		Il ne peut \u00EAtre \u00E9tabli d\'imp\u00F4ts que par la loi. 
+		\nLa contribution aux charges publiques constitue un devoir pour toute personne vivant en R\u00E9publique D\u00E9mocratique du Congo.
+		\nIl ne peut \u00EAtre \u00E9tabli d\'exemption ou d\'all\u00E8gement fiscal qu\'en vertu de la loi.
+	</string>
+	<string name="Article_175">
+		Le budget des recettes et des d\u00E9penses de l\'Etat, \u00E0 savoir celui du pouvoir central et des provinces, est arr\u00EAt\u00E9 chaque ann\u00E9e par une loi. 
+		\nLa part des recettes \u00E0 caract\u00E8re national allou\u00E9es aux provinces est \u00E9tablie \u00E0 40%. Elle est retenue \u00E0 la source.
+		\nLa loi fixe la nomenclature des autres recettes locales et la modalit\u00E9 de leur r\u00E9partition.
+	</string>
+	<string name="Article_176">
+		La Banque centrale du Congo est l\'institut d\'\u00E9mission de la R\u00E9publique D\u00E9mocratique du Congo. 
+		\nA ce titre, elle a pour mission: 
+		\n 1. la garde des fonds publics; 
+		\n 2. la sauvegarde et la stabilit\u00E9 mon\u00E9taire; 
+		\n 3. la d\u00E9finition et la mise en oeuvre de la politique mon\u00E9taire; 
+		\n 4. le contr\u00F4le de l\'ensemble de l\'activit\u00E9 bancaire ; 
+		\n 5. de conseil \u00E9conomique et financier du Gouvernement. 
+		\nDans la r\u00E9alisation de ces missions et attributions, la Banque centrale du Congo est ind\u00E9pendante et jouit de l\'autonomie de gestion.
+	</string>
+	<string name="Article_177">
+		L\'organisation et le fonctionnement de la Banque centrale du Congo sont fix\u00E9s par une loi organique.
+	</string>
+	<string name="Article_178">
+		Il est institu\u00E9 en R\u00E9publique D\u00E9mocratique du Congo une Cour des comptes. La Cour des comptes rel\u00E8ve de l\'Assembl\u00E9e nationale. 
+		\nLes membres de la Cour des comptes sont nomm\u00E9s, relev\u00E9s de leurs fonctions et, le cas \u00E9ch\u00E9ant, r\u00E9voqu\u00E9s par le Pr\u00E9sident de la R\u00E9publique, apr\u00E8s avis de l\'Assembl\u00E9e nationale. 
+		\nLes membres de la Cour des comptes doivent justifier d\'une haute qualification en mati\u00E8re financi\u00E8re, juridique ou administrative et d\'une exp\u00E9rience professionnelle d\'au moins dix ans.
+	</string>
+	<string name="Article_179">
+		La composition, l\'organisation et le fonctionnement de la Cour des comptes sont fix\u00E9s par une loi organique.
+	</string>
+	<string name="Article_180">
+		La Cour des comptes contr\u00F4le, dans les conditions fix\u00E9es par la loi, la gestion des finances de l\'Etat, des biens publics ainsi que les comptes des provinces, des entit\u00E9s territoriales d\u00E9centralis\u00E9es ainsi que des organismes publics. 
+		\nElle publie, chaque ann\u00E9e, un rapport remis au Pr\u00E9sident de la R\u00E9publique, au Parlement et au Gouvernement. 
+		\nLe rapport est publi\u00E9 au Journal officiel.
+	</string>
+	<string name="Article_181">
+		Il est institu\u00E9 une Caisse nationale de p\u00E9r\u00E9quation. Elle est dot\u00E9e de la personnalit\u00E9 juridique. 
+		\nLa Caisse nationale de p\u00E9r\u00E9quation a pour mission de financer des projets et programmes d\'investissement public, en vue d\'assurer la solidarit\u00E9 nationale et de corriger le d\u00E9s\u00E9quilibre de d\u00E9veloppement entre les provinces et entre les autres entit\u00E9s territoriales d\u00E9centralis\u00E9es. 
+		\nElle dispose d\u2019un budget aliment\u00E9 par le Tr\u00E9sor public \u00E0 concurrence de dix pour cent de la totalit\u00E9 des recettes \u00E0 caract\u00E8re national revenant \u00E0 l\'Etat chaque ann\u00E9e. 
+		\nElle est plac\u00E9e sous la tutelle du Gouvernement. 
+		\nUne loi organique fixe son organisation et son fonctionnement.
+	</string>
+	<string name="Article_182">
+		La Police nationale est charg\u00E9e de la s\u00E9curit\u00E9 publique, de la s\u00E9curit\u00E9 des personnes et de leurs biens, du maintien et du r\u00E9tablissement de l\'ordre public ainsi que de la protection rapproch\u00E9e des hautes autorit\u00E9s.
+	</string>
+	<string name="Article_183">
+		La Police nationale est apolitique. Elle est au service de la Nation congolaise. Nul ne peut la d\u00E9tourner \u00E0 ses fins propres. 
+		\nLa Police nationale exerce son action sur l\'ensemble du territoire national dans le respect de la pr\u00E9sente Constitution et des lois de la R\u00E9publique.
+	</string>
+	<string name="Article_184">
+		La Police nationale est soumise \u00E0 l\'autorit\u00E9 civile locale et est plac\u00E9e sous la responsabilit\u00E9 du minist\u00E8re qui a les affaires int\u00E9rieures dans ses attributions.
+	</string>
+	<string name="Article_185">
+		Les effectifs, \u00E0 tous les niveaux, les fonctions de commandement en tout temps et en toute circonstance, doivent tenir compte des crit\u00E8res objectifs li\u00E9s \u00E0 la fois \u00E0 l\'aptitude physique, \u00E0 une instruction suffisante et \u00E0 une moralit\u00E9 \u00E9prouv\u00E9e ainsi qu\'\u00E0 une repr\u00E9sentation \u00E9quitable des provinces.
+	</string>
+	<string name="Article_186">
+		Une loi organique fixe l\'organisation et le fonctionnement de la Police nationale.
+	</string>
+	<string name="Article_187">
+		Les Forces arm\u00E9es comprennent la force terrestre, la force a\u00E9rienne, la force navale et leurs services d\'appui. 
+		\nElles ont pour mission de d\u00E9fendre l\'int\u00E9grit\u00E9 du territoire national et les fronti\u00E8res. Dans les conditions fix\u00E9es par la loi, elles participent, en temps de paix, au d\u00E9veloppement \u00E9conomique, social et culturel ainsi qu\'\u00E0 la protection des personnes et de leurs biens.
+	</string>
+	<string name="Article_188">
+		Les Forces arm\u00E9es sont r\u00E9publicaines. Elles sont au service de la Nation toute enti\u00E8re. 
+		\nNul ne peut, sous peine de haute trahison, les d\u00E9tourner \u00E0 ses fins propres. 
+		\nElles sont apolitiques et soumises \u00E0 l\'autorit\u00E9 civile.
+	</string>
+	<string name="Article_189">
+		Les effectifs \u00E0 tous les niveaux, les fonctions de commandement en tout temps et en toute circonstance, doivent tenir compte des crit\u00E8res objectifs li\u00E9s \u00E0 la fois \u00E0 l\'aptitude physique, \u00E0 une instruction suffisante, \u00E0 une moralit\u00E9 \u00E9prouv\u00E9e ainsi qu\'\u00E0 une repr\u00E9sentation \u00E9quitable des provinces.
+	</string>
+	<string name="Article_190">
+		Nul ne peut, sous peine de haute trahison, organiser des formations militaires, para-militaires ou des milices priv\u00E9es, ni entretenir une jeunesse arm\u00E9e.
+	</string>
+	<string name="Article_191">
+		Une loi organique fixe l\'organisation et le fonctionnement des Forces arm\u00E9es.
+	</string>
+	<string name="Article_192">
+		Il est institu\u00E9 un Conseil sup\u00E9rieur de la d\u00E9fense. 
+		\nLe Conseil sup\u00E9rieur de la d\u00E9fense est pr\u00E9sid\u00E9 par le Pr\u00E9sident de la R\u00E9publique et, en cas d\'absence ou d\'emp\u00EAchement, par le Premier ministre.
+		\nUne loi organique d\u00E9termine l\'organisation, la composition, les attributions et le fonctionnement du Conseil sup\u00E9rieur de la d\u00E9fense.
+	</string>
+	<string name="Article_193">
+		L\'Administration Publique est apolitique, neutre et impartiale. Nul ne peut la d\u00E9tourner \u00E0 des fins personnelles ou partisanes. 
+		\nElle comprend la fonction publique ainsi que tous les organismes et services assimil\u00E9s.
+	</string>
+	<string name="Article_194">
+		Une loi organique fixe l\'organisation et le fonctionnement des services publics du pouvoir central, des provinces et des entit\u00E9s territoriales d\u00E9centralis\u00E9es.
+	</string>
+	<string name="Article_195">
+		Les institutions provinciales sont: 
+		\n 1. l\'Assembl\u00E9e provinciale; 
+		\n 2. le Gouvernement provincial.
+	</string>
+	<string name="Article_196">
+		Les provinces sont organis\u00E9es conform\u00E9ment aux principes \u00E9nonc\u00E9s \u00E0 l\'article 3 de la pr\u00E9sente Constitution. 
+		\nLes subdivisions territoriales \u00E0 l\'int\u00E9rieur des provinces sont fix\u00E9es par une loi organique.
+	</string>
+	<string name="Article_197">
+		L\'Assembl\u00E9e provinciale est l\'organe d\u00E9lib\u00E9rant de la province. Elle d\u00E9lib\u00E8re dans le domaine des comp\u00E9tences r\u00E9serv\u00E9es \u00E0 la province et contr\u00F4le le Gouvernement provincial ainsi que les services publics provinciaux et locaux. 
+		\nElle l\u00E9gif\u00E8re par voie d\'\u00E9dit. 
+		\nSes membres sont appel\u00E9s d\u00E9put\u00E9s provinciaux. 
+		\nIls sont \u00E9lus au suffrage universel direct et secret ou coopt\u00E9s pour un mandat de cinq ans renouvelable. 
+		\nLe nombre de d\u00E9put\u00E9s provinciaux coopt\u00E9s ne peut d\u00E9passer le dixi\u00E8me des membres qui composent l\'Assembl\u00E9e provinciale. 
+		\nSans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, les dispositions des articles 100, 101, 102, 103, 108 et 109 sont applicables, mutatis mutandis, aux Assembl\u00E9es provinciales.
+	</string>
+	<string name="Article_198">
+		Le Gouvernement provincial est compos\u00E9 d\'un Gouverneur, d\'un Vice-Gouverneur et des ministres provinciaux. 
+		\nLe Gouverneur et le Vice-Gouverneur sont \u00E9lus pour un mandat de cinq ans renouvelable une seule fois par les d\u00E9put\u00E9s provinciaux au sein ou en dehors de l\'Assembl\u00E9e provinciale. Ils sont investis par ordonnance du Pr\u00E9sident de la R\u00E9publique. 
+		\nLes ministres provinciaux sont d\u00E9sign\u00E9s par le Gouverneur au sein ou en dehors de l\'Assembl\u00E9e provinciale. 
+		\nLa composition du Gouvernement provincial tient compte de la repr\u00E9sentativit\u00E9 provinciale. 
+		\nLe nombre de ministres provinciaux ne peut d\u00E9passer dix. 
+		\nAvant d\'entrer en fonction, le Gouverneur pr\u00E9sente \u00E0 l\'Assembl\u00E9e provinciale le programme de son Gouvernement. 
+		\nLorsque ce programme est approuv\u00E9 \u00E0 la majorit\u00E9 absolue des membres qui composent l\'Assembl\u00E9e provinciale, celle-ci investit les ministres. 
+		\nLes membres du Gouvernement provincial peuvent \u00EAtre, collectivement ou individuellement, relev\u00E9s de leurs fonctions par le vote d\'une motion de censure ou de d\u00E9fiance de l\'Assembl\u00E9e provinciale. 
+		\nLes dispositions des articles 146 et 147 de la pr\u00E9sente Constitution s\'appliquent, mutatis mutandis, aux membres du Gouvernement provincial.
+	</string>
+	<string name="Article_199">
+		Deux ou plusieurs provinces peuvent, d\'un commun accord, cr\u00E9er un cadre d\'harmonisation et de coordination de leurs politiques respectives et g\u00E9rer en commun certains services dont les attributions portent sur les mati\u00E8res relevant de leurs comp\u00E9tences.
+	</string>
+	<string name="Article_200">
+		Il est institu\u00E9 une Conf\u00E9rence des Gouverneurs de province. 
+		\nElle a pour mission d\'\u00E9mettre des avis et de formuler des suggestions sur la politique \u00E0 mener et sur la l\u00E9gislation \u00E0 \u00E9dicter par la R\u00E9publique. 
+		\nLa Conf\u00E9rence des Gouverneurs de province est compos\u00E9e, outre les Gouverneurs de province, du Pr\u00E9sident de la R\u00E9publique, du Premier ministre et du ministre de l\'int\u00E9rieur. 
+		\nTout autre membre du Gouvernement peut y \u00EAtre invit\u00E9. 
+		\nElle est pr\u00E9sid\u00E9e par le Pr\u00E9sident de la R\u00E9publique. 
+		\nElle se r\u00E9unit au moins deux fois par an sur convocation de son Pr\u00E9sident. Elle se tient \u00E0 tour de r\u00F4le dans chaque province. 
+		\nUne loi organique en d\u00E9termine les modalit\u00E9s d\'organisation et de fonctionnement.
+	</string>
+	<string name="Article_201">
+		La r\u00E9partition des comp\u00E9tences entre le pouvoir central et les provinces est fix\u00E9e par la pr\u00E9sente Constitution. 
+		\nLes mati\u00E8res sont, soit de la comp\u00E9tence exclusive du pouvoir central, soit de la comp\u00E9tence concurrente du pouvoir central et des provinces, soit de la comp\u00E9tence exclusive des provinces.
+	</string>
+	<string name="Article_202">
+		Sans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, les mati\u00E8res suivantes sont de la comp\u00E9tence exclusive du pouvoir central: 
+		\n 1. les affaires \u00E9trang\u00E8res comprenant les relations diplomatiques ainsi que les trait\u00E9s et accords internationaux; 
+		\n 2. la r\u00E9glementation du commerce ext\u00E9rieur; 
+		\n 3. la nationalit\u00E9, le statut et la police des \u00E9trangers; 
+		\n 4. l\'extradition, l\'immigration, l\'\u00E9migration et la d\u00E9livrance des passeports et des visas; 
+		\n 5. la s\u00FBret\u00E9 ext\u00E9rieure; 
+		\n 6. la d\u00E9fense nationale; 
+		\n 7. l\u00E0 police nationale; 
+		\n 8. la fonction publique nationale; 
+		\n 9. les finances publiques de la R\u00E9publique; 
+		\n 10. l\'\u00E9tablissement des imp\u00F4ts sur le revenu, des imp\u00F4ts sur les soci\u00E9t\u00E9s et des imp\u00F4ts personnels conform\u00E9ment \u00E0 l\'article 174 ; 
+		\n 11. la dette publique de la R\u00E9publique; 
+		\n 12. las emprunts ext\u00E9rieurs pour les besoins de la R\u00E9publique ou des provinces; 
+		\n 13. les emprunts int\u00E9rieurs pour les besoins de la R\u00E9publique; 
+		\n 14. la monnaie, l\'\u00E9mission de la monnaie et le pouvoir lib\u00E9ratoire de la monnaie; 
+		\n 15. les poids, mesures et informatique; 
+		\n 16. les douanes et les droits d\'importation et d\'exportation; 
+		\n 17. la r\u00E9glementation concernant les banques et les op\u00E9rations bancaires et boursi\u00E8res; 
+		\n 18. la r\u00E9glementation des changes; 
+		\n 19. la propri\u00E9t\u00E9 litt\u00E9raire, artistique et industrielle et les brevets. 
+		\n 20. les postes et les t\u00E9l\u00E9communications, y compris les t\u00E9l\u00E9phones et t\u00E9l\u00E9graphes, la radiodiffusion, la t\u00E9l\u00E9vision et les satellites; 
+		\n 21. la navigation maritime et int\u00E9rieure, les lignes a\u00E9riennes, les chemins de fer, les routes et autres voies de communication, naturelles ou artificielles qui relient deux ou plusieurs provinces ou le territoire de la R\u00E9publique \u00E0 un territoire \u00E9tranger ou qu\'une loi nationale a d\u00E9clar\u00E9e d\'int\u00E9r\u00EAt national bien qu\'elles soient enti\u00E8rement situ\u00E9es sur le territoire d\'une province; 
+		\n 22. les universit\u00E9s et autres \u00E9tablissements d\'enseignement scientifique, technique ou professionnel sup\u00E9rieur cr\u00E9\u00E9s ou subventionn\u00E9s par le Gouvernement central ou par les Gouvernements provinciaux et qu\'une loi nationale a d\u00E9clar\u00E9s d\'int\u00E9r\u00EAt national; 
+		\n 23. l\'\u00E9tablissement des normes d\'enseignement applicables dans tous les. territoires de la R\u00E9publique; 
+		\n 24. l\'acquisition des biens pour les besoins de la R\u00E9publique, sans pr\u00E9judice des dispositions de l\'article 34 ; 
+		\n 25. l\'\u00E9laboration des programmes agricoles, forestiers et \u00E9nerg\u00E9tiques d\'int\u00E9r\u00EAt national et la coordination des programmes d\'int\u00E9r\u00EAt provincial; 
+		\nLes offices des produits agricoles et les organismes assimil\u00E9s ainsi que la r\u00E9partition des cadres, conform\u00E9ment au statut des agents de carri\u00E8re des services publics de l\'Etat; 
+		\nLes r\u00E9gimes \u00E9nerg\u00E9tiques, agricoles et forestiers sur la chasse et la p\u00EAche, sur la conservation de la nature (flore et faune), sur la capture, sur l\'\u00E9levage, sur les denr\u00E9es alimentaires d\'origine animale et l\'art v\u00E9t\u00E9rinaire. 
+		\n 26. la protection contre les dangers occasionn\u00E9s par l\'\u00E9nergie ou par les radiations et l\'\u00E9limination des substances radioactives; 
+		\n 27. la pr\u00E9vention des abus des puissances \u00E9conomiques; 
+		\n 28. le patrimoine historique, les monuments publics et les parcs d\u00E9clar\u00E9s d\'int\u00E9r\u00EAt national; 
+		\n 29. les services de la m\u00E9t\u00E9orologie et la coordination technique des services de la g\u00E9od\u00E9sie, de la cartographie et de l\'hydrographie; 
+		\n 30. la nomination et l\'affectation des inspecteurs provinciaux de l\'enseignement primaire, secondaire, professionnel et sp\u00E9cial; 
+		\n 31. les statistiques et le recensement d\'int\u00E9r\u00EAt national; 
+		\n 32. la planification nationale; 
+		\n 33. la recherche scientifique et technologique;
+		\n 34. les plans directeurs nationaux de d\u00E9veloppement des infrastructures de base, notamment les ports, les a\u00E9roports, les gares; 
+		\n 35. l\'assistance aux anciens combattants et les handicap\u00E9s de guerre; 
+		\n 36. la l\u00E9gislation notamment concernant: 
+		\n a) le code de commerce, y compris les assurances, la constitution et l\'agr\u00E9ment des soci\u00E9t\u00E9s; 
+		\n b) le code p\u00E9nal, le r\u00E9gime p\u00E9nitentiaire; 
+		\n c) le code d\'organisation et de comp\u00E9tence judiciaires et le code judiciaire; 
+		\n d) la l\u00E9gislation pour les professions lib\u00E9rales; 
+		\n e) la l\u00E9gislation du travail comprenant notamment les lois r\u00E9gissant les relations entre employeurs et travailleurs, la s\u00E9curit\u00E9 des travailleurs, les r\u00E8gles relatives \u00E0 la s\u00E9curit\u00E9 sociale et, en particulier, les r\u00E8gles relatives aux assurances sociales et au ch\u00F4mage involontaire; 
+		\nDe la l\u00E9gislation \u00E9conomique comprenant les lois concernant les mines, min\u00E9raux et huiles min\u00E9rales, l\'industrie, les sources d\'\u00E9nergie et la conservation des ressources naturelles; 
+		\n g) la l\u00E9gislation sur les arts et m\u00E9tiers; 
+		\n h) la l\u00E9gislation m\u00E9dicale et l\'art de gu\u00E9rir, la m\u00E9decine pr\u00E9ventive, notamment l\'hygi\u00E8ne, la salubrit\u00E9 publique et la protection maternelle et infantile, la l\u00E9gislation sur la profession de pharmacien, sur le commerce pharmaceutique, sur l\'immigration et le transit, les r\u00E8glements sanitaires bilat\u00E9raux et internationaux, la l\u00E9gislation sur l\'hygi\u00E8ne du travail, la coordination technique des laboratoires m\u00E9dicaux et la r\u00E9partition des m\u00E9decins; 
+		\n i) la loi \u00E9lectorale; 
+		\n j) la l\u00E9gislation sur la fabrication, la rectification, l\'importation, l\'exportation et la vente de l\'alcool obtenu par la distillation;  
+		\n k) la l\u00E9gislation sur la fabrication, l\'importation et l\'exportation, la vente des boissons alcoolis\u00E9es et non alcoolis\u00E9es;  
+		\n l) la l\u00E9gislation sur la fabrication, l\'importation, l\'exportation et le transit des mat\u00E9riels de guerre;  
+		\n m) la l\u00E9gislation sur la f\u00E9condation artificielle chez l\'\u00EAtre humain, sur la manipulation des informations g\u00E9n\u00E9tiques et sur les transplantations d\'organes et des tissus humains;  
+		\n n) la l\u00E9gislation sur les r\u00E9fugi\u00E9s, les expuls\u00E9s et les personnes d\u00E9plac\u00E9es;  
+		\n o) la l\u00E9gislation sur l\'admission aux professions m\u00E9dicales et aux autres professions et activit\u00E9s.
+	</string>
+	<string name="Article_203">
+		Sans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, les mati\u00E8res suivantes sont de la comp\u00E9tence concurrente du pouvoir central et des provinces: 
+		\n 1. la mise en oeuvre des m\u00E9canismes de promotion et de sauvegarde des droits humains et des libert\u00E9s fondamentales consacr\u00E9s dans la pr\u00E9sente Constitution; 
+		\n 2. les droits civils et coutumiers; 
+		\n 3. les statistiques et les recensements; 
+		\n 4. la s\u00FBret\u00E9 int\u00E9rieure; 
+		\n 5. l\'administration des cours et tribunaux, des maisons d\'arr\u00EAt et de correction et des prisons; 
+		\n 6. la vie culturelle et sportive; 
+		\n 7. l\'\u00E9tablissement des imp\u00F4ts, y compris les droits d\'accise et de consommation, \u00E0 l\'exclusion des imp\u00F4ts vis\u00E9s \u00E0 l\'article 174 ; 
+		\n 8. l\'ex\u00E9cution des mesures sur la Police des \u00E9trangers; 
+		\n 9. la recherche scientifique et technologique ainsi que les bourses d\'\u00E9tudes, de perfectionnement et d\'encouragement \u00E0 la recherche; 
+		\n 10. les institutions m\u00E9dicales et philanthropiques, l\'engagement du personnel m\u00E9dical et agricole de commandement; 
+		\n 11. la mise en \u0153uvre des programmes de la m\u00E9t\u00E9orologie, de la g\u00E9ologie, de la cartographie et de l\'hydrologie; 
+		\n 12. les calamit\u00E9s naturelles; 
+		\n 13. la presse, la radio, la t\u00E9l\u00E9vision, l\'industrie cin\u00E9matographique; 
+		\n 14. la protection civile; 
+		\n 15. le tourisme; 
+		\n 16. les droits fonciers et miniers, l\'am\u00E9nagement du territoire, le r\u00E9gime des eaux et for\u00EAts; 
+		\n 17. la pr\u00E9vention des \u00E9pid\u00E9mies et \u00E9pizooties dangereuses pour la collectivit\u00E9; 
+		\n 18. la protection de l\'environnement, des sites naturels, des paysages et la conservation des sites ; 
+		\n 19. la r\u00E9glementation sur les r\u00E9gimes \u00E9nerg\u00E9tiques, agricoles et forestiers, l\'\u00E9levage, les denr\u00E9es alimentaires d\'origine animale et v\u00E9g\u00E9tale; 
+		\n 20. la cr\u00E9ation des \u00E9tablissements primaires, secondaires, sup\u00E9rieurs et universitaires; 
+		\n 21. le trafic routier, la circulation automobile, la construction et l\'entretien des routes d\'int\u00E9r\u00EAt national, la perception et la r\u00E9partition des p\u00E9ages pour l\'utilisation des routes construites par le pouvoir central et/ou par la province; 
+		\n 22. les institutions m\u00E9dicales et philanthropiques; 
+		\n 23. l\'initiative des projets, programmes et accords de coop\u00E9ration \u00E9conomique, culturelle, scientifique et sociale internationale; 
+		\n 24. la production, le transport, l\'utilisation et l\'exploitation de l\'\u00E9nergie; 
+		\n 25. la protection des groupes des personnes vuln\u00E9rables.
+	</string>
+	<string name="Article_204">
+		Sans pr\u00E9judice des autres dispositions de la pr\u00E9sente Constitution, les mati\u00E8res suivantes sont de la comp\u00E9tence exclusive des provinces: 
+		\n 1. le plan d\'am\u00E9nagement de la province; 
+		\n 2. la coop\u00E9ration inter-provinciale; 
+		\n 3. la fonction publique provinciale et locale; 
+		\n 4. l\'application des normes r\u00E9gissant l\'\u00E9tat civil; 
+		\n 5. les finances publiques provinciales; 
+		\n 6. la dette publique provinciale; 
+		\n 7. les emprunts int\u00E9rieurs pour les besoins des provinces; 
+		\n 8. la d\u00E9livrance et la conservation des titres immobiliers dans le respect de la l\u00E9gislation nationale; 
+		\n 9. l\'organisation du petit commerce frontalier; 
+		\n 10. l\'organisation et le fonctionnement des services publics, \u00E9tablissements et entreprises publics provinciaux dans le respect de la l\u00E9gislation nationale; 
+		\n 11. les travaux et march\u00E9s publics d\'int\u00E9r\u00EAt provincial et local; 
+		\n 12. l\'acquisition des biens pour les besoins de la province; 
+		\n 13. l\'enseignement maternel, primaire, secondaire, professionnel et sp\u00E9cial ainsi que l\'alphab\u00E9tisation des citoyens, conform\u00E9ment aux normes \u00E9tablies par le pouvoir central; 
+		\n 14. l\'\u00E9tablissement des peines d\'amende ou de prison pour assurer le respect des \u00E9dits en conformit\u00E9 avec la l\u00E9gislation nationale; 
+		\n 15. les communications int\u00E9rieures des provinces; 
+		\n 16. les imp\u00F4ts, les taxes et les droits provinciaux et locaux, notamment l\'imp\u00F4t foncier, l\'imp\u00F4t sur les revenus locatifs et l\'imp\u00F4t sur les v\u00E9hicules automoteurs;
+		\n 17. la fixation des salaires minima provinciaux, conform\u00E9ment \u00E0 la l\u00E9gislation nationale; 
+		\n18. l\'affectation du personnel m\u00E9dical, conform\u00E9ment au statut des agents de carri\u00E8re des services publics de l\'Etat, l\'\u00E9laboration des programmes d\'assainissement et de campagne de lutte contre les maladies end\u00E9mo\u00AC\u00E9pid\u00E9miques conform\u00E9ment au plan national: l\'organisation des services d\'hygi\u00E8ne et de prophylaxie provinciale, l\'application et le contr\u00F4le de la l\u00E9gislation m\u00E9dicale et pharmaceutique nationale ainsi que l\'organisation des services de la m\u00E9decine curative, des services philanthropiques et missionnaires, des laboratoires m\u00E9dicaux et des services pharmaceutiques, l\'organisation et la promotion des soins de sant\u00E9 primaires; 
+		\n 19. l\'\u00E9laboration des programmes miniers, min\u00E9ralogiques, industriels, \u00E9nerg\u00E9tiques d\'int\u00E9r\u00EAt provincial et leur ex\u00E9cution conform\u00E9ment aux normes g\u00E9n\u00E9rales du planning national; 
+		\n 20. l\'\u00E9laboration des programmes agricoles et forestiers et leur ex\u00E9cution conform\u00E9ment aux normes du planning national, l\'affectation du personnel agricole, des cadres conform\u00E9ment aux dispositions du statut des agents de carri\u00E8re des services publics de l\'Etat, l\'application de la l\u00E9gislation nationale concernant l\'agriculture, la for\u00EAt, la chasse et la p\u00EAche ainsi que l\'environnement, la conservation de la nature et la capture des animaux sauvages, l\'organisation et le contr\u00F4le des campagnes agricoles, la fixation des prix des produits agricoles; 
+		\n 21. l\'affectation en province du personnel v\u00E9t\u00E9rinaire, conform\u00E9ment au statut des agents de carri\u00E8re des services publics de l\'Etat; l\'\u00E9laboration des programmes de campagne de sant\u00E9 animale et l\'application des mesures de police sanitaire v\u00E9t\u00E9rinaire, notamment en ce qui concerne les postes frontaliers et de quarantaine; 
+		\n 22. l\'organisation des campagnes de vaccination contre les maladies enzootiques, l\'organisation des laboratoires, cliniques et dispensaires de la provenderie ainsi que l\'application de la l\u00E9gislation nationale en mati\u00E8re v\u00E9t\u00E9rinaire, l\'organisation de la promotion de sant\u00E9 de base; 
+		\n 23. le tourisme, le patrimoine historique, les monuments publics et les parcs d\'int\u00E9r\u00EAt provincial et local; 
+		\n 24. l\'habitat urbain et rural, la voirie et les \u00E9quipements collectifs provinciaux et locaux; 
+		\n 25. l\'inspection des activit\u00E9s culturelles et sportives provinciales; 
+		\n 26. l\'exploitation des sources d\'\u00E9nergie non nucl\u00E9aire et la production de l\'eau pour les besoins de la province; 
+		\n 27. l\'ex\u00E9cution des mesures du droit de r\u00E9sidence et d\'\u00E9tablissement des \u00E9trangers, conform\u00E9ment \u00E0 la loi; 
+		\n 28. l\'ex\u00E9cution du droit coutumier; 
+		\n 29.  la planification provinciale.
+	</string>
+	<string name="Article_205">
+		Une assembl\u00E9e provinciale ne peut l\u00E9gif\u00E9rer sur les mati\u00E8res de la comp\u00E9tence exclusive du pouvoir central. R\u00E9ciproquement, l\'Assembl\u00E9e nationale et le S\u00E9nat ne peuvent l\u00E9gif\u00E9rer sur les mati\u00E8res de la comp\u00E9tence exclusive d\'une province. 
+		\nToutefois, l\'Assembl\u00E9e nationale et le S\u00E9nat peuvent, par une loi, habiliter une Assembl\u00E9e provinciale \u00E0 prendre des \u00E9dits sur des mati\u00E8res de la comp\u00E9tence exclusive du pouvoir central. Lorsque l\'Assembl\u00E9e nationale et le S\u00E9nat mettent fin \u00E0 la d\u00E9l\u00E9gation de pouvoir ainsi donn\u00E9e \u00E0 l\'Assembl\u00E9e provinciale, les dispositions des \u00E9dits provinciaux promulgu\u00E9s en des mati\u00E8res de la comp\u00E9tence exclusive du pouvoir central, en vertu de cette d\u00E9l\u00E9gation de pouvoir, demeurent cependant en vigueur dans la province int\u00E9ress\u00E9e jusqu\'\u00E0 ce qu\'une loi nationale ait r\u00E9gl\u00E9 ces mati\u00E8res. 
+		\nPareillement, une Assembl\u00E9e provinciale peut, par un \u00E9dit, habiliter l\'Assembl\u00E9e nationale et le S\u00E9nat \u00E0 l\u00E9gif\u00E9rer sur des mati\u00E8res de la comp\u00E9tence exclusive de la province. Lorsque l\'Assembl\u00E9e provinciale met fin \u00E0 la d\u00E9l\u00E9gation de pouvoir ainsi donn\u00E9e \u00E0 l\'Assembl\u00E9e nationale et au S\u00E9nat, les dispositions des lois nationales promulgu\u00E9es en des mati\u00E8res de la comp\u00E9tence exclusive des provinces, en vertu de cette d\u00E9l\u00E9gation de pouvoir, demeurent cependant en vigueur dans la province int\u00E9ress\u00E9e jusqu\'\u00E0 ce qu\'un \u00E9dit provincial les ait r\u00E9gl\u00E9es. 
+		\nDans les mati\u00E8res relevant de la comp\u00E9tence concurrente du pouvoir central et des provinces, tout \u00E9dit provincial incompatible avec les lois et r\u00E8glements d\'ex\u00E9cution nationaux est nul et abrog\u00E9 de plein droit, dans la mesure o\u00F9 il y a incompatibilit\u00E9. 
+		\nLa l\u00E9gislation nationale prime sur l\'\u00E9dit provincial.
+	</string>
+	<string name="Article_206">
+		Sauf dispositions contraires de la l\u00E9gislation nationale, les Gouvernements provinciaux ex\u00E9cutent, par l\'interm\u00E9diaire de leurs services, les lois et les r\u00E8glements nationaux.
+	</string>
+	<string name="Article_207">
+		L\'autorit\u00E9 coutumi\u00E8re est reconnue.
+		\nElle est d\u00E9volue conform\u00E9ment \u00E0 la coutume locale, pour autant que celle-ci ne soit pas contraire \u00E0 la Constitution, \u00E0 la loi, \u00E0 l\'ordre public et aux bonnes m\u0153urs. 
+		\nTout chef coutumier d\u00E9sireux d\'exercer un mandat public \u00E9lectif doit se soumettre \u00E0 l\'\u00E9lection, sauf application des dispositions de l\'article 197 alin\u00E9a 3 de la pr\u00E9sente Constitution. 
+		\nL\'autorit\u00E9 coutumi\u00E8re a le devoir de promouvoir l\'unit\u00E9 et la coh\u00E9sion nationales. Une loi fixe le statut des chefs coutumiers.
+	</string>
+	<string name="Article_208">
+		Il est institu\u00E9 en R\u00E9publique D\u00E9mocratique du Congo un Conseil \u00E9conomique et social.
+	</string>
+	<string name="Article_209">
+		Le Conseil \u00E9conomique et social a pour mission de donner des avis consultatifs sur les questions \u00E9conomiques et sociales lui soumises par le Pr\u00E9sident de la R\u00E9publique, l\'Assembl\u00E9e nationale, le S\u00E9nat et le Gouvernement. 
+		\nIl peut, de sa propre initiative, appeler l\'attention du Gouvernement et des provinces sur les r\u00E9formes qui lui paraissent de nature \u00E0 favoriser le d\u00E9veloppement \u00E9conomique et social du pays.
+	</string>
+	<string name="Article_210">
+		Une loi organique d\u00E9termine l\'organisation et le fonctionnement du Conseil \u00E9conomique et social.
+	</string>
+	<string name="Article_211">
+		Il est institu\u00E9 une Commission \u00E9lectorale nationale ind\u00E9pendante dot\u00E9e de la personnalit\u00E9 juridique. 
+		\nLa Commission \u00E9lectorale nationale ind\u00E9pendante est charg\u00E9e de l\'organisation du processus \u00E9lectoral, notamment de l\'enr\u00F4lement des \u00E9lecteurs, de la tenue du fichier \u00E9lectoral, des op\u00E9rations de vote, de d\u00E9pouillement et de tout r\u00E9f\u00E9rendum.
+		\nElle assure la r\u00E9gularit\u00E9 du processus \u00E9lectoral et r\u00E9f\u00E9rendaire. 
+		\nUne loi organique fixe l\'organisation et le fonctionnement de la Commission  \u00E9lectorale nationale ind\u00E9pendante.
+	</string>
+	<string name="Article_212">
+		Il est institu\u00E9 un Conseil sup\u00E9rieur de l\'audiovisuel et de la communication dot\u00E9e de la personnalit\u00E9 juridique. 
+		\nIl a pour mission de garantir et d\'assurer la libert\u00E9 et la protection de la presse, ainsi que de tous les moyens de communication de masse dans le respect de la loi. 
+		\nIl veille au respect de la d\u00E9ontologie en mati\u00E8re d\'information et \u00E0 l\'acc\u00E8s \u00E9quitable des partis politiques, des associations et des citoyens aux moyens officiels d\'information et de communication. 
+		\nLa composition, les attributions, l\'organisation et le fonctionnement du Conseil sup\u00E9rieur de l\'audiovisuel et de la communication sont fix\u00E9s par une loi organique.
+	</string>
+	<string name="Article_213">
+		Le Pr\u00E9sident de la R\u00E9publique n\u00E9gocie et ratifie les trait\u00E9s et accords internationaux. 
+		\nLe Gouvernement conclut les accords internationaux non soumis \u00E0 ratification apr\u00E8s d\u00E9lib\u00E9ration en Conseil des ministres. Il en informe l\'Assembl\u00E9e nationale et le S\u00E9nat.
+	</string>
+	<string name="Article_214">
+		Les trait\u00E9s de paix, les trait\u00E9s de commerce, les trait\u00E9s et accords relatifs aux organisations internationales et au r\u00E8glement des conflits internationaux, ceux qui engagent les finances publiques, ceux qui modifient les dispositions l\u00E9gislatives, ceux qui sont relatifs \u00E0 l\'\u00E9tat des personnes, ceux qui comportent \u00E9change et adjonction de territoire ne peuvent \u00EAtre ratifi\u00E9s ou approuv\u00E9s qu\'en vertu d\'une loi. 
+		\nNulle cession, nul \u00E9change, nulle adjonction de territoire n\'est valable sans l\'accord du peuple congolais consult\u00E9 par voie de r\u00E9f\u00E9rendum.
+	</string>
+	<string name="Article_215">
+		Les trait\u00E9s et accords internationaux r\u00E9guli\u00E8rement conclus ont, d\u00E8s leur publication, une autorit\u00E9 sup\u00E9rieure \u00E0 celle des lois, sous r\u00E9serve pour chaque trait\u00E9 ou accord, de son application par l\'autre partie.
+	</string>
+	<string name="Article_216">
+		Si la Cour constitutionnelle consult\u00E9e par le Pr\u00E9sident de la R\u00E9publique, par le  Premier ministre, le Pr\u00E9sident de l\'Assembl\u00E9e nationale ou le Pr\u00E9sident du S\u00E9nat, par un dixi\u00E8me des d\u00E9put\u00E9s ou un dixi\u00E8me des s\u00E9nateurs, d\u00E9clare qu\'un trait\u00E9 ou accord international comporte une clause contraire \u00E0 la Constitution, la ratification ou l\'approbation ne peut intervenir qu\'apr\u00E8s la r\u00E9vision de la Constitution.
+	</string>
+	<string name="Article_217">
+		La R\u00E9publique D\u00E9mocratique du Congo peut conclure des trait\u00E9s ou des accords d\'association ou de communaut\u00E9 comportant un abandon partiel de souverainet\u00E9 en vue de promouvoir l\'unit\u00E9 africaine.
+	</string>
+	<string name="Article_218">
+		L\'initiative de la r\u00E9vision constitutionnelle appartient concurremment: 
+		\n 1. au Pr\u00E9sident de la R\u00E9publique; 
+		\n 2. au Gouvernement apr\u00E8s d\u00E9lib\u00E9ration en Conseil des ministres; 
+		\n 3. \u00E0 chacune des Chambres du Parlement \u00E0 l\'initiative de la moiti\u00E9 de ses membres; 
+		\n 4. \u00E0 une fraction du peuple congolais, en l\'occurrence 100.000 personnes, s\'exprimant par une p\u00E9tition adress\u00E9e \u00E0 l\'une des deux Chambres. 
+		\nChacune de ces initiatives est soumise \u00E0 l\'Assembl\u00E9e nationale et au S\u00E9nat qui d\u00E9cident, \u00E0 la majorit\u00E9 absolue de chaque Chambre, du bien fond\u00E9 du projet, de la proposition ou de la p\u00E9tition de r\u00E9vision. 
+		\nLa r\u00E9vision n\'est d\u00E9finitive que si le projet, la proposition ou la p\u00E9tition est approuv\u00E9e par r\u00E9f\u00E9rendum. 
+		\nToutefois, le projet, la proposition ou la p\u00E9tition n\'est pas soumis au r\u00E9f\u00E9rendum lorsque l\'Assembl\u00E9e nationale et le S\u00E9nat r\u00E9unis en Congr\u00E8s l\'approuvent \u00E0 la majorit\u00E9 des trois cinqui\u00E8me des membres les composant.
+	</string>
+	<string name="Article_219">
+		Aucune r\u00E9vision ne peut intervenir pendant l\'\u00E9tat de guerre, l\'\u00E9tat d\'urgence ou l\'\u00E9tat de si\u00E8ge ni pendant l\'int\u00E9rim \u00E0 la Pr\u00E9sidence de la R\u00E9publique ni lorsque l\'Assembl\u00E9e nationale et le S\u00E9nat se trouvent emp\u00EAch\u00E9s de se r\u00E9unir librement.
+	</string>
+	<string name="Article_220">
+		La forme r\u00E9publicaine de l\'Etat, le principe du suffrage universel, la forme repr\u00E9sentative du Gouvernement, le nombre et la dur\u00E9e des mandats du Pr\u00E9sident de la R\u00E9publique, l\'ind\u00E9pendance du pouvoir judiciaire, le pluralisme politique et syndical, ne peuvent faire l\'objet d\'aucune r\u00E9vision constitutionnelle. 
+		\nEst formellement interdite toute r\u00E9vision constitutionnelle ayant pour objet ou pour effet de r\u00E9duire les droits et libert\u00E9s de la personne ou de r\u00E9duire les pr\u00E9rogatives des provinces et des entit\u00E9s territoriales d\u00E9centralis\u00E9es.
+	</string>
+	<string name="Article_221">
+		Pour autant qu\'ils ne soient pas contraires \u00E0 la pr\u00E9sente Constitution, les textes l\u00E9gislatifs et r\u00E9glementaires en vigueur restent maintenus jusqu\'\u00E0 leur abrogation ou leur modification.
+	</string>
+	<string name="Article_222">
+		Les institutions politiques de la transition restent en fonction jusqu\'\u00E0 l\'installation effective des institutions correspondantes pr\u00E9vues par la pr\u00E9sente Constitution et exercent leurs attributions conform\u00E9ment \u00E0 la Constitution de la Transition. 
+		\nLes institutions d\'appui \u00E0 la d\u00E9mocratie sont dissoutes de plein droit d\u00E8s l\'installation du nouveau Parlement. 
+		\nToutefois, par une loi organique, le Parlement pourra, s\'il \u00E9chet, instituer d\'autres institutions d\'appui \u00E0 la d\u00E9mocratie.
+	</string>
+	<string name="Article_223">
+		En attendant l\'installation de la Cour constitutionnelle, du Conseil d\'Etat et de la Cour de cassation, la Cour supr\u00EAme de justice exerce les attributions leur d\u00E9volues par la pr\u00E9sente Constitution.
+	</string>
+	<string name="Article_224">
+		En attendant l\'installation des juridictions de l\'ordre administratif, les Cours d\'appel exercent les comp\u00E9tences d\u00E9volues aux Cours administratives d\'appel.
+	</string>
+	<string name="Article_225">
+		La Cour de s\u00FBret\u00E9 de l\'Etat est dissoute d\u00E8s l\'entr\u00E9e en vigueur de la pr\u00E9sente Constitution.
+	</string>
+	<string name="Article_226">
+		Les dispositions de l\'alin\u00E9a premier de l\'article 2 de la pr\u00E9sente Constitution entreront en vigueur end\u00E9ans trente six mois qui suivront l\'installation effective des institutions politiques pr\u00E9vues par la pr\u00E9sente Constitution. \n En attendant, la R\u00E9publique D\u00E9mocratique du Congo est compos\u00E9e de la ville de Kinshasa et de dix provinces suivantes dot\u00E9es de la personnalit\u00E9 juridique: Bandundu, Bas-Congo, Equateur; Kasa\u00EF-Occidental, Kasa\u00EF-Oriental, Katanga, Maniema, Nord-Kivu, Province Orientale, Sud-Kivu.
+	</string>
+	<string name="Article_227">
+		Les provinces telles qu\'\u00E9num\u00E9r\u00E9es par l\'article 2 de la pr\u00E9sente Constitution constituent les circonscriptions \u00E9lectorales des s\u00E9nateurs de la premi\u00E8re l\u00E9gislature. 
+		\n La loi \u00E9lectorale d\u00E9termine les conditions d\'attribution d\'un quota additionnel \u00E0 la ville de Kinshasa pour les \u00E9lections des s\u00E9nateurs.
+	</string>
+	<string name="Article_228">
+		Sans pr\u00E9judice des dispositions de l\'article 222 alin\u00E9a 1, la Constitution de la Transition du 04 avril 2003 est abrog\u00E9e.
+	</string>
+	<string name="Article_229">
+		La pr\u00E9sente Constitution, adopt\u00E9e par r\u00E9f\u00E9rendum, entre en vigueur d\u00E8s sa promulgation par le Pr\u00E9sident de la R\u00E9publique.
+	</string>
+</resources>

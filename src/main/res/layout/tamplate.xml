@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:id="@+id/item1"
+	android:text="Place holder"
+	android:padding="10dp"
+	android:typeface="monospace"
+	android:textStyle="bold|italic"
+	android:textSize="20sp"
+	android:textScaleX="1.25">
+
+</TextView>
+
